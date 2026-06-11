@@ -1,0 +1,18 @@
+{
+  "model": "path_a_poisson_dynamic_ratings_with_round_tracking",
+  "simulations": 100000,
+  "seed": 42,
+  "rounds_saved": [
+    "champion",
+    "runner_up",
+    "third_place",
+    "fourth_place",
+    "final",
+    "semifinal",
+    "quarterfinal",
+    "round_of_16",
+    "round_of_32",
+    "group_advancement",
+    "playoff_qualification"
+  ]
+}

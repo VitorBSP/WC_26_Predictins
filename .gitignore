@@ -1,0 +1,6 @@
+# Ignora arquivos de variáveis de ambiente
+.env
+
+# (Opcional) Ignorar também sua pasta de ambiente virtual se estiver usando uma
+venv/
+__pycache__/
