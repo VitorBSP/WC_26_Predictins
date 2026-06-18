@@ -1,47 +1,49 @@
 team,count,runner_up_probability
-Spain,10010,0.1001
-Argentina,8359,0.08359
-Brazil,6685,0.06685
-France,6487,0.06487
-Germany,6116,0.06116
-England,5894,0.05894
-Colombia,4749,0.04749
-Netherlands,4209,0.04209
-Portugal,4161,0.04161
-Switzerland,4042,0.04042
-Belgium,3976,0.03976
-Norway,3567,0.03567
-Uruguay,3420,0.0342
-Ecuador,3235,0.03235
-Mexico,3159,0.03159
-Japan,2817,0.02817
-Morocco,2202,0.02202
-South Korea,1761,0.01761
-United States,1536,0.01536
-Austria,1392,0.01392
-Turkey,1300,0.013
-Canada,1244,0.01244
-Croatia,1237,0.01237
-Scotland,1159,0.01159
-Paraguay,1131,0.01131
-Senegal,850,0.0085
-Sweden,755,0.00755
-Algeria,698,0.00698
-Iran,690,0.0069
-Australia,649,0.00649
-Ivory Coast,411,0.00411
-Egypt,375,0.00375
-Uzbekistan,307,0.00307
-Panama,257,0.00257
-Jordan,197,0.00197
-Tunisia,184,0.00184
-Saudi Arabia,169,0.00169
-Iraq,136,0.00136
+Spain,10992,0.10992
+Argentina,8459,0.08459
+France,6708,0.06708
+England,6178,0.06178
+Brazil,5769,0.05769
+Colombia,5077,0.05077
+Germany,4931,0.04931
+Portugal,4913,0.04913
+Switzerland,3953,0.03953
+Netherlands,3914,0.03914
+Norway,3887,0.03887
+Belgium,3877,0.03877
+Mexico,3176,0.03176
+Uruguay,3170,0.0317
+Ecuador,2816,0.02816
+Japan,2607,0.02607
+Morocco,2105,0.02105
+South Korea,1754,0.01754
+United States,1703,0.01703
+Turkey,1547,0.01547
+Austria,1352,0.01352
+Canada,1199,0.01199
+Croatia,1186,0.01186
+Paraguay,1154,0.01154
+Scotland,940,0.0094
+Senegal,814,0.00814
+Australia,764,0.00764
+Sweden,751,0.00751
+Iran,723,0.00723
+Czechia,713,0.00713
+Algeria,587,0.00587
+Ivory Coast,414,0.00414
+Egypt,362,0.00362
+Uzbekistan,290,0.0029
+Panama,276,0.00276
+Tunisia,186,0.00186
+Jordan,156,0.00156
 New Zealand,136,0.00136
-South Africa,94,0.00094
-DR Congo,59,0.00059
-Ghana,57,0.00057
-Haiti,47,0.00047
-Bosnia and Herzegovina,35,0.00035
-Qatar,33,0.00033
-Cape Verde,13,0.00013
+Saudi Arabia,117,0.00117
+Iraq,97,0.00097
+South Africa,76,0.00076
+Congo DR,67,0.00067
+Ghana,40,0.0004
+Qatar,24,0.00024
+Haiti,19,0.00019
+Bosnia and Herzegovina,12,0.00012
+Curacao,6,6e-05
+Cabo Verde,3,3e-05

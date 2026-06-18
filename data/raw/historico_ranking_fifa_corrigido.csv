@@ -1,215 +1,4 @@
 DateID,Rank,Team,Points
-id14541,1,Argentina,1883.50
-id14541,2,France,1859.85
-id14541,3,Spain,1844.33
-id14541,4,England,1807.83
-id14541,5,Brazil,1784.37
-id14541,6,Belgium,1761.27
-id14541,7,Portugal,1752.68
-id14541,8,Netherlands,1748.24
-id14541,9,Italy,1729.40
-id14541,10,Colombia,1724.37
-id14541,11,Germany,1703.59
-id14541,12,Croatia,1701.36
-id14541,13,Morocco,1681.57
-id14541,14,Uruguay,1.05
-id14541,15,Japan,1645.09
-id14541,16,Mexico,1640.67
-id14541,17,Switzerland,1631.38
-id14541,18,USA,1630.97
-id14541,19,IR Iran,1627.58
-id14541,20,Senegal,1627.13
-id14541,21,Denmark,1617.34
-id14541,22,Korea Republic,1589.93
-id14541,23,Austria,1589.17
-id14541,24,Australia,1552.77
-id14541,25,Ukraine,1552.37
-id14541,26,Türkiye,1548.15
-id14541,27,Ecuador,1536.32
-id14541,28,Sweden,1530.41
-id14541,29,Wales,1528.96
-id14541,30,Egypt,1526.25
-id14541,31,Poland,1523.19
-id14541,32,Hungary,1519.33
-id14541,33,Serbia,1511.16
-id14541,34,Russia,1508.73
-id14541,35,Canada,1507.27
-id14541,36,Nigeria,1503.29
-id14541,37,Algeria,1496.94
-id14541,38,Peru,1494.24
-id14541,39,Panama,1493.80
-id14541,40,Côte d'Ivoire,1493.57
-id14541,41,Slovakia,1489.88
-id14541,42,Greece,1487.42
-id14541,43,Romania,1487.22
-id14541,44,Venezuela,1482.47
-id14541,45,Czechia,1480.39
-id14541,46,Qatar,1478.60
-id14541,47,Tunisia,1478.52
-id14541,48,Norway,1473.50
-id14541,49,Cameroon,2.98
-id14541,50,Costa Rica,1465.57
-id14541,51,Scotland,1461.34
-id14541,52,Slovenia,1459.59
-id14541,53,Chile,1455.22
-id14541,54,Mali,1454.84
-id14541,55,Paraguay,1440.78
-id14541,56,Iraq,1434.40
-id14541,57,Congo DR,1431.30
-id14541,58,Uzbekistan,1429.26
-id14541,59,Saudi Arabia,1422.67
-id14541,60,South Africa,1415.98
-id14541,61,Jamaica,1405.36
-id14541,62,Burkina Faso,1399.80
-id14541,63,Republic of Ireland,1395.61
-id14541,64,Jordan,1380.75
-id14541,65,Albania,1379.29
-id14541,66,Finland,1374.58
-id14541,67,Georgia,1365.56
-id14541,68,United Arab Emirates,0.28
-id14541,69,North Macedonia,1361.01
-id14541,70,Iceland,1353.18
-id14541,71,Northern Ireland,1345.06
-id14541,72,Cabo Verde,1340.87
-id14541,73,Ghana,1338.73
-id14541,74,Bosnia and Herzegovina,1324.43
-id14541,75,Montenegro,1323.20
-id14541,76,Bahrain,1313.80
-id14541,77,Honduras,1312.66
-id14541,78,Guinea,1312.45
-id14541,79,Bolivia,1312.36
-id14541,80,Oman,1305.99
-id14541,81,Israel,1303.65
-id14541,82,Angola,1298.75
-id14541,83,El Salvador,1297.99
-id14541,84,Bulgaria,1295.11
-id14541,85,Gabon,0.48
-id14541,86,Haiti,1283.67
-id14541,87,Uganda,9.59
-id14541,88,Equatorial Guinea,0.08
-id14541,89,Luxembourg,1262.08
-id14541,90,Curaçao,1260.87
-id14541,91,New Zealand,1258.11
-id14541,92,China PR,1257.29
-id14541,93,Syria,1252.19
-id14541,94,Zambia,0.86
-id14541,95,Benin,1250.97
-id14541,96,Thailand,1231.75
-id14541,97,Belarus,1231.10
-id14541,98,Mozambique,1229.01
-id14541,99,Armenia,1222.74
-id14541,100,Palestine,1218.43
-id14541,101,Kosovo,1218.22
-id14541,102,Trinidad and Tobago,1214.81
-id14541,103,Kyrgyz Republic,1207.08
-id14541,104,Guatemala,1201.35
-id14541,105,Tajikistan,1196.98
-id14541,106,Kenya,1195.36
-id14541,107,Kazakhstan,1186.46
-id14541,108,Comoros,5.15
-id14541,109,Madagascar,1180.00
-id14541,110,Sudan,0.00
-id14541,111,Korea DPR,3.58
-id14541,112,Tanzania,2.28
-id14541,113,Namibia,0.43
-id14541,114,Mauritania,1168.44
-id14541,115,Lebanon,1167.49
-id14541,116,Guinea-Bissau,2.66
-id14541,117,Zimbabwe,1162.48
-id14541,118,Azerbaijan,1161.80
-id14541,119,Vietnam,9.67
-id14541,120,Congo,2.28
-id14541,121,Sierra Leone,1149.81
-id14541,122,Libya,0.99
-id14541,123,Togo,1147.91
-id14541,124,Estonia,1145.52
-id14541,125,India,1133.78
-id14541,126,Rwanda,5.04
-id14541,127,Cyprus,1127.51
-id14541,128,The Gambia,1125.62
-id14541,129,Central African Republic,1125.26
-id14541,130,Indonesia,1118.87
-id14541,131,Niger,1114.73
-id14541,132,Nicaragua,1114.28
-id14541,133,Malaysia,9.67
-id14541,134,Malawi,1111.16
-id14541,135,Kuwait,1106.42
-id14541,136,Suriname,8.11
-id14541,137,Latvia,1093.82
-id14541,138,Faroe Islands,1091.52
-id14541,139,Burundi,8.70
-id14541,140,Botswana,5.72
-id14541,141,Lithuania,1082.36
-id14541,142,Dominican Republic,1071.88
-id14541,143,St Kitts and Nevis,5.05
-id14541,144,Turkmenistan,8.87
-id14541,145,Philippines,1053.09
-id14541,146,Fiji,1051.41
-id14541,147,Solomon Islands,5.05
-id14541,148,Ethiopia,1049.28
-id14541,149,Liberia,1048.86
-id14541,150,Moldova,1040.83
-id14541,151,Afghanistan,1034.37
-id14541,152,Lesotho,1032.79
-id14541,153,Puerto Rico,1021.62
-id14541,154,Yemen,1021.24
-id14541,155,New Caledonia,5.67
-id14541,156,Antigua and Barbuda,4.56
-id14541,157,Vanuatu,1015.52
-id14541,158,"Hong Kong, China",1015.10
-id14541,159,Tahiti,12.43
-id14541,160,Eswatini,15.39
-id14541,161,Guyana,3.73
-id14541,162,Singapore,1008.26
-id14541,163,Maldives,1003.48
-id14541,164,St Lucia,3.58
-id14541,165,Myanmar,990.98
-id14541,166,Cuba,0.93
-id14541,167,Bermuda,986.53
-id14541,168,Chinese Taipei,14.42
-id14541,169,Malta,980.50
-id14541,170,Andorra,977.96
-id14541,171,Papua New Guinea,5.73
-id14541,172,South Sudan,15.99
-id14541,173,Barbados,4.53
-id14541,174,St Vincent and the Grenadines,4.53
-id14541,175,Grenada,947.22
-id14541,176,Nepal,13.87
-id14541,177,Chad,8.70
-id14541,178,Mauritius,1.96
-id14541,179,Belize,3.73
-id14541,180,Montserrat,10.12
-id14541,181,Cambodia,921.20
-id14541,182,Bhutan,904.06
-id14541,183,Dominica,3.68
-id14541,184,Brunei Darussalam,900.75
-id14541,185,Bangladesh,896.71
-id14541,186,Samoa,4.66
-id14541,187,Laos,13.87
-id14541,188,Mongolia,883.57
-id14541,189,American Samoa,5.55
-id14541,190,São Tomé and Príncipe,7.92
-id14541,191,Cook Islands,5.05
-id14541,192,Djibouti,15.99
-id14541,193,Macau,2.28
-id14541,194,Cayman Islands,866.71
-id14541,195,Aruba,863.29
-id14541,196,Timor-Leste,850.83
-id14541,197,Gibraltar,848.32
-id14541,198,Pakistan,842.59
-id14541,199,Tonga,11.49
-id14541,200,Liechtenstein,834.15
-id14541,201,Seychelles,6.94
-id14541,202,Somalia,8.21
-id14541,203,Sri Lanka,829.39
-id14541,204,Guam,821.91
-id14541,205,Bahamas,4.43
-id14541,206,Turks and Caicos Islands,5.95
-id14541,207,British Virgin Islands,780.30
-id14541,208,US Virgin Islands,2.84
-id14541,209,Anguilla,4.88
-id14541,210,San Marino,737.04
-id14541,-,Eritrea (unranked),15.39
 id14576,1,Argentina,1867.25
 id14576,2,France,1859.78
 id14576,3,Spain,1853.27
@@ -220,7 +9,7 @@ id14576,7,Netherlands,1747.55
 id14576,8,Belgium,1740.62
 id14576,9,Italy,1731.51
 id14576,10,Germany,1703.79
-id14576,11,Uruguay,1.05
+id14576,11,Uruguay,1695.91
 id14576,12,Colombia,1694.44
 id14576,13,Croatia,1691.59
 id14576,14,Morocco,1688.18
@@ -258,7 +47,7 @@ id14576,45,Scotland,1480.24
 id14576,46,Côte d'Ivoire,1478.47
 id14576,47,Venezuela,1475.71
 id14576,48,Qatar,1474.60
-id14576,49,Cameroon,2.98
+id14576,49,Cameroon,1471.49
 id14576,50,Chile,1469.44
 id14576,51,Mali,1466.10
 id14576,52,Tunisia,1464.42
@@ -272,7 +61,7 @@ id14576,59,Saudi Arabia,1406.56
 id14576,60,Republic of Ireland,1400.22
 id14576,61,Congo DR,1395.77
 id14576,62,Jamaica,1390.85
-id14576,63,United Arab Emirates,0.28
+id14576,63,United Arab Emirates,1385.57
 id14576,64,Jordan,1375.91
 id14576,65,Albania,1375.57
 id14576,66,Burkina Faso,1373.76
@@ -293,16 +82,16 @@ id14576,80,Oman,1306.67
 id14576,81,Bahrain,1305.52
 id14576,82,Bulgaria,1301.04
 id14576,83,El Salvador,1300.81
-id14576,84,Gabon,0.48
+id14576,84,Gabon,1297.87
 id14576,85,Angola,1296.48
 id14576,86,Haiti,1287.75
-id14576,87,Zambia,0.86
-id14576,88,Uganda,9.59
+id14576,87,Zambia,1279.24
+id14576,88,Uganda,1270.42
 id14576,89,New Zealand,1269.83
 id14576,90,China PR,1266.38
 id14576,91,Curaçao,1264.78
 id14576,92,Luxembourg,1256.42
-id14576,93,Equatorial Guinea,0.08
+id14576,93,Equatorial Guinea,1256.20
 id14576,94,Benin,1250.99
 id14576,95,Syria,1249.47
 id14576,96,Mozambique,1232.70
@@ -312,115 +101,115 @@ id14576,99,Kosovo,1219.82
 id14576,100,Armenia,1219.15
 id14576,101,Palestine,1215.87
 id14576,102,Trinidad and Tobago,1214.81
-id14576,103,Comoros,5.15
+id14576,103,Comoros,1208.99
 id14576,104,Tajikistan,1203.08
 id14576,105,Guatemala,1201.35
-id14576,106,Tanzania,2.28
+id14576,106,Tanzania,1199.33
 id14576,107,Kyrgyz Republic,1194.19
 id14576,108,Kenya,1189.65
 id14576,109,Mauritania,1183.16
 id14576,110,Kazakhstan,1180.18
-id14576,111,Namibia,0.43
+id14576,111,Namibia,1179.26
 id14576,112,Lebanon,1168.10
-id14576,113,Sudan,0.00
-id14576,114,Korea DPR,3.58
+id14576,113,Sudan,1165.41
+id14576,114,Korea DPR,1164.41
 id14576,115,Madagascar,1162.02
-id14576,116,Vietnam,9.67
+id14576,116,Vietnam,1161.11
 id14576,117,Azerbaijan,1158.70
-id14576,118,Libya,0.99
+id14576,118,Libya,1158.03
 id14576,119,Togo,1152.18
-id14576,120,Guinea-Bissau,2.66
+id14576,120,Guinea-Bissau,1151.72
 id14576,121,Zimbabwe,1151.06
 id14576,122,Niger,1145.96
 id14576,123,Estonia,1142.53
-id14576,124,Rwanda,5.04
+id14576,124,Rwanda,1136.06
 id14576,125,Indonesia,1135.11
 id14576,126,The Gambia,1134.69
 id14576,127,India,1133.62
-id14576,128,Congo,2.28
+id14576,128,Congo,1132.65
 id14576,129,Sierra Leone,1132.06
 id14576,130,Cyprus,1131.32
 id14576,131,Malawi,1129.31
-id14576,132,Malaysia,9.67
+id14576,132,Malaysia,1117.05
 id14576,133,Nicaragua,1114.28
 id14576,134,Kuwait,1109.16
 id14576,135,Central African Republic,1102.23
-id14576,136,Botswana,5.72
+id14576,136,Botswana,1098.85
 id14576,137,Faroe Islands,1096.88
-id14576,138,Suriname,8.11
-id14576,139,Burundi,8.70
+id14576,138,Suriname,1096.60
+id14576,139,Burundi,1087.26
 id14576,140,Latvia,1084.11
 id14576,141,Dominican Republic,1083.36
 id14576,142,Lithuania,1069.96
-id14576,143,Turkmenistan,8.87
-id14576,144,St Kitts and Nevis,5.05
+id14576,143,Turkmenistan,1065.42
+id14576,144,St Kitts and Nevis,1064.99
 id14576,145,Liberia,1063.04
 id14576,146,Ethiopia,1059.94
 id14576,147,Fiji,1049.15
-id14576,148,Solomon Islands,5.05
+id14576,148,Solomon Islands,1048.75
 id14576,149,Philippines,1047.73
 id14576,150,Lesotho,1046.76
 id14576,151,Moldova,1045.59
-id14576,152,New Caledonia,5.67
-id14576,153,Tahiti,12.43
-id14576,154,Guyana,3.73
+id14576,152,New Caledonia,1034.43
+id14576,153,Tahiti,1031.47
+id14576,154,Guyana,1030.60
 id14576,155,Afghanistan,1025.00
 id14576,156,"Hong Kong, China",1024.58
 id14576,157,Puerto Rico,1022.83
 id14576,158,Yemen,1017.84
-id14576,159,Eswatini,15.39
-id14576,160,Antigua and Barbuda,4.56
+id14576,159,Eswatini,1015.25
+id14576,160,Antigua and Barbuda,1010.97
 id14576,161,Singapore,1007.83
 id14576,162,Maldives,1001.39
 id14576,163,Vanuatu,996.21
-id14576,164,Cuba,0.93
-id14576,165,Chinese Taipei,14.42
+id14576,164,Cuba,994.43
+id14576,165,Chinese Taipei,990.92
 id14576,166,Bermuda,988.19
 id14576,167,Myanmar,986.15
-id14576,168,St Lucia,3.58
+id14576,168,St Lucia,985.72
 id14576,169,Malta,983.95
-id14576,170,South Sudan,15.99
+id14576,170,South Sudan,973.55
 id14576,171,Andorra,971.54
-id14576,172,Papua New Guinea,5.73
-id14576,173,St Vincent and the Grenadines,4.53
+id14576,172,Papua New Guinea,963.22
+id14576,173,St Vincent and the Grenadines,961.92
 id14576,174,Grenada,955.44
-id14576,175,Nepal,13.87
-id14576,176,Chad,8.70
-id14576,177,Barbados,4.53
-id14576,178,Belize,3.73
-id14576,179,Mauritius,1.96
+id14576,175,Nepal,939.20
+id14576,176,Chad,935.41
+id14576,177,Barbados,933.30
+id14576,178,Belize,925.02
+id14576,179,Mauritius,923.46
 id14576,180,Cambodia,921.20
-id14576,181,Montserrat,10.12
+id14576,181,Montserrat,914.26
 id14576,182,Bhutan,904.06
-id14576,183,Dominica,3.68
+id14576,183,Dominica,900.00
 id14576,184,Brunei Darussalam,899.87
 id14576,185,Bangladesh,898.81
-id14576,186,Laos,13.87
+id14576,186,Laos,889.54
 id14576,187,Mongolia,883.57
-id14576,188,American Samoa,5.55
-id14576,189,São Tomé and Príncipe,7.92
-id14576,190,Cook Islands,5.05
-id14576,191,Djibouti,15.99
-id14576,192,Samoa,4.66
-id14576,193,Macau,2.28
+id14576,188,American Samoa,883.17
+id14576,189,São Tomé and Príncipe,878.09
+id14576,190,Cook Islands,877.53
+id14576,191,Djibouti,877.37
+id14576,192,Samoa,876.41
+id14576,193,Macau,871.52
 id14576,194,Cayman Islands,866.71
 id14576,195,Aruba,858.00
 id14576,196,Timor-Leste,850.83
 id14576,197,Gibraltar,848.58
 id14576,198,Pakistan,842.59
-id14576,199,Tonga,11.49
+id14576,199,Tonga,835.64
 id14576,200,Sri Lanka,832.80
-id14576,201,Seychelles,6.94
-id14576,202,Somalia,8.21
+id14576,201,Seychelles,831.19
+id14576,202,Somalia,829.81
 id14576,203,Guam,821.91
 id14576,204,Liechtenstein,821.71
-id14576,205,Bahamas,4.43
-id14576,206,Turks and Caicos Islands,5.95
+id14576,205,Bahamas,818.58
+id14576,206,Turks and Caicos Islands,803.98
 id14576,207,British Virgin Islands,780.30
-id14576,208,US Virgin Islands,2.84
-id14576,209,Anguilla,4.88
+id14576,208,US Virgin Islands,779.71
+id14576,209,Anguilla,769.31
 id14576,210,San Marino,747.42
-id14576,-,Eritrea (unranked),15.39
+id14576,-,Eritrea (unranked),FIFA WC 2018 Prel. Comp. African Zone Round One 13 October 2015 Botswana 3 Eritrea 1 13 October 2015 Preliminary Competition for the 2022 FWC African Zone Round One 04 September 2019 Eritrea 1 Namibia 2 04 September 2019 Preliminary Competition for the 2022 FWC African Zone Round One 10 September 2019 Namibia 2 Eritrea 0 10 September 2019 CAN 2027 Prel. Comp. First Leg 25 March 2026 Eritrea 2 Eswatini 0 25 March 2026 CAN 2027 Prel. Comp. Second Leg 31 March 2026 Eswatini 1 Eritrea 2 31 March 2026
 id14597,1,Argentina,1867.25
 id14597,2,France,1859.78
 id14597,3,Spain,1853.27
@@ -431,19 +220,212 @@ id14597,7,Netherlands,1747.55
 id14597,8,Belgium,1740.62
 id14597,9,Italy,1731.51
 id14597,10,Germany,1703.79
-id14702,1,Argentina,1886.16
-id14702,2,Spain,1854.64
-id14702,3,France,1852.71
-id14702,4,England,1819.20
-id14702,5,Brazil,1776.03
-id14702,6,Netherlands,1752.44
-id14702,7,Portugal,1750.08
-id14702,8,Belgium,1735.75
+id14597,11,Uruguay,1695.91
+id14597,12,Colombia,1694.44
+id14597,13,Croatia,1691.59
+id14597,14,Morocco,1688.18
+id14597,15,Japan,1652.79
+id14597,16,USA,1645.48
+id14597,17,Senegal,1637.25
+id14597,18,IR Iran,1635.31
+id14597,19,Mexico,1627.40
+id14597,20,Switzerland,1625.16
+id14597,21,Denmark,1611.49
+id14597,22,Austria,1589.84
+id14597,23,Korea Republic,1585.45
+id14597,24,Ecuador,1560.13
+id14597,25,Ukraine,1554.94
+id14597,26,Australia,1544.15
+id14597,27,Sweden,1540.20
+id14597,28,Türkiye,1537.24
+id14597,29,Wales,1534.39
+id14597,30,Hungary,1517.57
+id14597,31,Canada,1515.96
+id14597,32,Serbia,1514.28
+id14597,33,Egypt,1513.48
+id14597,34,Russia,1512.32
+id14597,35,Poland,1510.62
+id14597,36,Panama,1504.39
+id14597,37,Algeria,1495.85
+id14597,38,Romania,1494.20
+id14597,39,Greece,1489.88
+id14597,40,Peru,1488.42
+id14597,41,Slovakia,1486.19
+id14597,42,Czechia,1484.88
+id14597,43,Norway,1484.44
+id14597,44,Nigeria,1482.23
+id14597,45,Scotland,1480.24
+id14597,46,Côte d'Ivoire,1478.47
+id14597,47,Venezuela,1475.71
+id14597,48,Qatar,1474.60
+id14597,49,Cameroon,1471.49
+id14597,50,Chile,1469.44
+id14597,51,Mali,1466.10
+id14597,52,Tunisia,1464.42
+id14597,53,Paraguay,1458.26
+id14597,54,Costa Rica,1454.99
+id14597,55,Slovenia,1454.25
+id14597,56,Iraq,1442.86
+id14597,57,South Africa,1428.87
+id14597,58,Uzbekistan,1424.93
+id14597,59,Saudi Arabia,1406.56
+id14597,60,Republic of Ireland,1400.22
+id14597,61,Congo DR,1395.77
+id14597,62,Jamaica,1390.85
+id14597,63,United Arab Emirates,1385.57
+id14597,64,Jordan,1375.91
+id14597,65,Albania,1375.57
+id14597,66,Burkina Faso,1373.76
+id14597,67,North Macedonia,1368.96
+id14597,68,Georgia,1362.21
+id14597,69,Finland,1361.53
+id14597,70,Iceland,1355.10
+id14597,71,Northern Ireland,1349.58
+id14597,72,Cabo Verde,1328.51
+id14597,73,Montenegro,1326.76
+id14597,74,Bosnia and Herzegovina,1326.69
+id14597,75,Honduras,1325.93
+id14597,76,Israel,1322.25
+id14597,77,Ghana,1320.52
+id14597,78,Guinea,1311.88
+id14597,79,Bolivia,1308.58
+id14597,80,Oman,1306.67
+id14597,81,Bahrain,1305.52
+id14597,82,Bulgaria,1301.04
+id14597,83,El Salvador,1300.81
+id14597,84,Gabon,1297.87
+id14597,85,Angola,1296.48
+id14597,86,Haiti,1287.75
+id14597,87,Zambia,1279.24
+id14597,88,Uganda,1270.42
+id14597,89,New Zealand,1269.83
+id14597,90,China PR,1266.38
+id14597,91,Curaçao,1264.78
+id14597,92,Luxembourg,1256.42
+id14597,93,Equatorial Guinea,1256.20
+id14597,94,Benin,1250.99
+id14597,95,Syria,1249.47
+id14597,96,Mozambique,1232.70
+id14597,97,Thailand,1231.17
+id14597,98,Belarus,1226.31
+id14597,99,Kosovo,1219.82
+id14597,100,Armenia,1219.15
+id14597,101,Palestine,1215.87
+id14597,102,Trinidad and Tobago,1214.81
+id14597,103,Comoros,1208.99
+id14597,104,Tajikistan,1203.08
+id14597,105,Guatemala,1201.35
+id14597,106,Tanzania,1199.33
+id14597,107,Kyrgyz Republic,1194.19
+id14597,108,Kenya,1189.65
+id14597,109,Mauritania,1183.16
+id14597,110,Kazakhstan,1180.18
+id14597,111,Namibia,1179.26
+id14597,112,Lebanon,1171.43
+id14597,113,Sudan,1165.41
+id14597,114,Vietnam,1164.79
+id14597,115,Korea DPR,1164.41
+id14597,116,Madagascar,1162.02
+id14597,117,Azerbaijan,1158.70
+id14597,118,Libya,1158.03
+id14597,119,Togo,1152.18
+id14597,120,Guinea-Bissau,1151.72
+id14597,121,Zimbabwe,1151.06
+id14597,122,Niger,1145.96
+id14597,123,Estonia,1142.53
+id14597,124,Rwanda,1136.06
+id14597,125,The Gambia,1134.69
+id14597,126,India,1133.62
+id14597,127,Indonesia,1133.41
+id14597,128,Congo,1132.65
+id14597,129,Sierra Leone,1132.06
+id14597,130,Cyprus,1131.32
+id14597,131,Malawi,1129.31
+id14597,132,Malaysia,1115.51
+id14597,133,Nicaragua,1114.28
+id14597,134,Kuwait,1108.72
+id14597,135,Central African Republic,1102.23
+id14597,136,Botswana,1098.85
+id14597,137,Faroe Islands,1096.88
+id14597,138,Suriname,1096.60
+id14597,139,Burundi,1087.26
+id14597,140,Latvia,1084.11
+id14597,141,Dominican Republic,1083.36
+id14597,142,Lithuania,1069.96
+id14597,143,Turkmenistan,1065.42
+id14597,144,St Kitts and Nevis,1064.99
+id14597,145,Liberia,1063.04
+id14597,146,Ethiopia,1059.94
+id14597,147,Solomon Islands,1051.00
+id14597,148,Fiji,1048.48
+id14597,149,Lesotho,1046.76
+id14597,150,Philippines,1046.67
+id14597,151,Moldova,1045.59
+id14597,152,New Caledonia,1034.43
+id14597,153,Tahiti,1031.47
+id14597,154,Guyana,1030.60
+id14597,155,"Hong Kong, China",1028.76
+id14597,156,Afghanistan,1025.00
+id14597,157,Puerto Rico,1022.83
+id14597,158,Yemen,1018.27
+id14597,159,Eswatini,1015.25
+id14597,160,Singapore,1011.68
+id14597,161,Antigua and Barbuda,1010.97
+id14597,162,Maldives,1001.39
+id14597,163,Cuba,994.43
+id14597,164,Vanuatu,994.22
+id14597,165,Chinese Taipei,990.56
+id14597,166,Bermuda,988.19
+id14597,167,St Lucia,985.72
+id14597,168,Malta,983.95
+id14597,169,Myanmar,981.35
+id14597,170,South Sudan,973.55
+id14597,171,Andorra,971.54
+id14597,172,Papua New Guinea,963.63
+id14597,173,St Vincent and the Grenadines,961.92
+id14597,174,Grenada,955.44
+id14597,175,Nepal,939.20
+id14597,176,Chad,935.41
+id14597,177,Barbados,933.30
+id14597,178,Belize,925.02
+id14597,179,Mauritius,923.46
+id14597,180,Cambodia,920.00
+id14597,181,Montserrat,914.26
+id14597,182,Bhutan,904.06
+id14597,183,Dominica,900.00
+id14597,184,Brunei Darussalam,899.87
+id14597,185,Bangladesh,898.81
+id14597,186,Laos,890.08
+id14597,187,American Samoa,883.17
+id14597,188,Mongolia,879.75
+id14597,189,São Tomé and Príncipe,878.09
+id14597,190,Cook Islands,877.53
+id14597,191,Djibouti,877.37
+id14597,192,Samoa,876.41
+id14597,193,Macau,868.79
+id14597,194,Cayman Islands,866.71
+id14597,195,Aruba,858.00
+id14597,196,Gibraltar,848.58
+id14597,197,Timor-Leste,846.80
+id14597,198,Pakistan,842.59
+id14597,199,Tonga,835.64
+id14597,200,Sri Lanka,832.80
+id14597,201,Seychelles,831.19
+id14597,202,Somalia,829.81
+id14597,203,Guam,824.65
+id14597,204,Liechtenstein,821.71
+id14597,205,Bahamas,818.58
+id14597,206,Turks and Caicos Islands,803.98
+id14597,207,British Virgin Islands,780.30
+id14597,208,US Virgin Islands,779.71
+id14597,209,Anguilla,769.31
+id14597,210,San Marino,747.42
+id14597,-,Eritrea (unranked), 0
 id14702,9,Italy,1718.31
 id14702,10,Germany,1716.98
 id14702,11,Croatia,1698.66
 id14702,12,Morocco,1694.24
-id14702,13,Uruguay,1.05
+id14702,13,Uruguay,1679.49
 id14702,14,Colombia,1679.04
 id14702,15,Japan,1652.64
 id14702,16,USA,1648.81
@@ -480,7 +462,7 @@ id14702,46,Slovakia,1477.78
 id14702,47,Venezuela,1476.84
 id14702,48,Paraguay,1475.93
 id14702,49,Tunisia,1474.10
-id14702,50,Cameroon,2.98
+id14702,50,Cameroon,1465.72
 id14702,51,Slovenia,1462.66
 id14702,52,Chile,1461.91
 id14702,53,Mali,1460.23
@@ -495,7 +477,7 @@ id14702,61,Congo DR,1406.59
 id14702,62,Jordan,1389.15
 id14702,63,Jamaica,1386.65
 id14702,64,Burkina Faso,1385.06
-id14702,65,United Arab Emirates,0.28
+id14702,65,United Arab Emirates,1382.70
 id14702,66,Albania,1375.95
 id14702,67,North Macedonia,1375.58
 id14702,68,Georgia,1373.05
@@ -509,7 +491,7 @@ id14702,75,Honduras,1333.51
 id14702,76,Ghana,1333.13
 id14702,77,Oman,1323.91
 id14702,78,Israel,1321.78
-id14702,79,Gabon,0.48
+id14702,79,Gabon,1309.82
 id14702,80,Bolivia,1308.12
 id14702,81,El Salvador,1300.81
 id14702,82,Guinea,1292.63
@@ -518,11 +500,11 @@ id14702,84,Bahrain,1290.00
 id14702,85,Bulgaria,1289.03
 id14702,86,New Zealand,1284.68
 id14702,87,Angola,1279.55
-id14702,88,Zambia,0.86
-id14702,89,Uganda,9.59
+id14702,88,Zambia,1276.34
+id14702,89,Uganda,1273.83
 id14702,90,Curaçao,1264.78
 id14702,91,Luxembourg,1261.88
-id14702,92,Equatorial Guinea,0.08
+id14702,92,Equatorial Guinea,1255.75
 id14702,93,Syria,1253.81
 id14702,94,China PR,1250.95
 id14702,95,Benin,1240.45
@@ -535,117 +517,113 @@ id14702,101,Palestine,1224.65
 id14702,102,Armenia,1208.31
 id14702,103,Kyrgyz Republic,1205.68
 id14702,104,Tajikistan,1203.42
-id14702,105,Comoros,5.15
+id14702,105,Comoros,1203.13
 id14702,106,Guatemala,1197.12
-id14702,107,Tanzania,2.28
-id14702,108,Namibia,0.43
-id14702,109,Vietnam,9.67
+id14702,107,Tanzania,1196.04
+id14702,108,Namibia,1192.29
+id14702,109,Vietnam,1183.83
 id14702,110,Mauritania,1179.56
 id14702,111,Kenya,1178.53
 id14702,112,Lebanon,1177.94
 id14702,113,Kazakhstan,1177.66
-id14702,114,Sudan,0.00
+id14702,114,Sudan,1173.59
 id14702,115,Madagascar,1162.86
 id14702,116,Zimbabwe,1160.51
-id14702,117,Libya,0.99
-id14702,118,Korea DPR,3.58
+id14702,117,Libya,1155.19
+id14702,118,Korea DPR,1153.38
 id14702,119,Azerbaijan,1150.64
 id14702,120,Togo,1149.49
 id14702,121,Estonia,1144.48
 id14702,122,Niger,1143.24
 id14702,123,Indonesia,1142.92
 id14702,124,Sierra Leone,1140.06
-id14702,125,Congo,2.28
+id14702,125,Congo,1136.31
 id14702,126,The Gambia,1133.42
 id14702,127,India,1132.03
-id14702,128,Guinea-Bissau,2.66
+id14702,128,Guinea-Bissau,1128.27
 id14702,129,Cyprus,1128.20
-id14702,130,Rwanda,5.04
-id14702,131,Malaysia,9.67
+id14702,130,Rwanda,1127.36
+id14702,131,Malaysia,1123.57
 id14702,132,Malawi,1118.35
 id14702,133,Nicaragua,1114.28
 id14702,134,Kuwait,1112.12
 id14702,135,Central African Republic,1101.80
-id14702,136,Botswana,5.72
-id14702,137,Suriname,8.11
+id14702,136,Botswana,1101.20
+id14702,137,Suriname,1096.60
 id14702,138,Latvia,1092.49
 id14702,139,Dominican Republic,1087.21
-id14702,140,Burundi,8.70
+id14702,140,Burundi,1086.33
 id14702,141,Faroe Islands,1085.12
-id14702,142,Turkmenistan,8.87
+id14702,142,Turkmenistan,1076.13
 id14702,143,Lithuania,1072.56
 id14702,144,Liberia,1068.31
-id14702,145,St Kitts and Nevis,5.05
+id14702,145,St Kitts and Nevis,1064.99
 id14702,146,Philippines,1063.01
 id14702,147,Ethiopia,1060.62
 id14702,148,Lesotho,1046.35
-id14702,149,Solomon Islands,5.05
+id14702,149,Solomon Islands,1045.58
 id14702,150,Fiji,1043.44
-id14702,151,New Caledonia,5.67
-id14702,152,Guyana,3.73
+id14702,151,New Caledonia,1039.55
+id14702,152,Guyana,1037.91
 id14702,153,"Hong Kong, China",1033.05
 id14702,154,Moldova,1031.37
-id14702,155,Eswatini,15.39
-id14702,156,Tahiti,12.43
+id14702,155,Eswatini,1022.87
+id14702,156,Tahiti,1019.04
 id14702,157,Puerto Rico,1018.98
 id14702,158,Yemen,1017.56
-id14702,159,Antigua and Barbuda,4.56
+id14702,159,Antigua and Barbuda,1010.97
 id14702,160,Afghanistan,1008.39
 id14702,161,Singapore,1002.26
 id14702,162,Myanmar,995.21
 id14702,163,Vanuatu,991.59
 id14702,164,Maldives,986.42
-id14702,165,St Lucia,3.58
-id14702,166,Chinese Taipei,14.42
-id14702,167,Cuba,0.93
+id14702,165,St Lucia,985.72
+id14702,166,Chinese Taipei,979.85
+id14702,167,Cuba,979.72
 id14702,168,Bermuda,977.53
 id14702,169,Malta,976.35
-id14702,170,South Sudan,15.99
-id14702,171,Papua New Guinea,5.73
-id14702,172,St Vincent and the Grenadines,4.53
+id14702,170,South Sudan,975.60
+id14702,171,Papua New Guinea,969.17
+id14702,172,St Vincent and the Grenadines,966.11
 id14702,173,Andorra,957.41
 id14702,174,Grenada,954.39
-id14702,175,Nepal,13.87
-id14702,176,Barbados,4.53
-id14702,177,Chad,8.70
-id14702,178,Mauritius,1.96
-id14702,179,Belize,3.73
-id14702,180,Montserrat,10.12
+id14702,175,Nepal,936.29
+id14702,176,Barbados,933.30
+id14702,177,Chad,925.12
+id14702,178,Mauritius,921.61
+id14702,179,Belize,919.26
+id14702,180,Montserrat,914.26
 id14702,181,Cambodia,912.67
 id14702,182,Bhutan,906.80
 id14702,183,Bangladesh,904.16
-id14702,184,Dominica,3.68
+id14702,184,Dominica,900.00
 id14702,185,Brunei Darussalam,893.35
-id14702,186,American Samoa,5.55
+id14702,186,American Samoa,883.17
 id14702,187,Mongolia,879.75
-id14702,188,Cook Islands,5.05
-id14702,189,Samoa,4.66
-id14702,190,Laos,13.87
+id14702,188,Cook Islands,877.53
+id14702,189,Samoa,876.41
+id14702,190,Laos,876.40
 id14702,191,Cayman Islands,866.71
-id14702,192,Djibouti,15.99
-id14702,193,Macau,2.28
-id14702,194,São Tomé and Príncipe,7.92
+id14702,192,Djibouti,865.75
+id14702,193,Macau,865.29
+id14702,194,São Tomé and Príncipe,865.08
 id14702,195,Aruba,863.58
 id14702,196,Gibraltar,843.19
 id14702,197,Timor-Leste,839.53
 id14702,198,Pakistan,838.25
-id14702,199,Tonga,11.49
+id14702,199,Tonga,835.64
 id14702,200,Sri Lanka,833.77
-id14702,201,Somalia,8.21
+id14702,201,Somalia,832.13
 id14702,202,Guam,823.08
-id14702,203,Seychelles,6.94
-id14702,204,Bahamas,4.43
+id14702,203,Seychelles,820.71
+id14702,204,Bahamas,818.58
 id14702,205,Liechtenstein,813.86
-id14702,206,Turks and Caicos Islands,5.95
+id14702,206,Turks and Caicos Islands,803.98
 id14702,207,British Virgin Islands,780.30
-id14702,208,US Virgin Islands,2.84
-id14702,209,Anguilla,4.88
+id14702,208,US Virgin Islands,779.71
+id14702,209,Anguilla,769.31
 id14702,210,San Marino,741.36
-id14702,-,Eritrea (unranked),15.39
-id14800,1,Argentina,1885.36
-id14800,2,Spain,1867.09
-id14800,3,France,1862.03
-id14800,4,England,1813.32
+id14702,-,Eritrea (unranked), 0
 id14800,5,Brazil,1777.69
 id14800,6,Portugal,1770.53
 id14800,7,Netherlands,1758.18
@@ -657,7 +635,7 @@ id14800,12,Morocco,1698.72
 id14800,13,Mexico,1689.73
 id14800,14,Colombia,1679.46
 id14800,15,USA,1671.04
-id14800,16,Uruguay,1.05
+id14800,16,Uruguay,1670.76
 id14800,17,Japan,1641.23
 id14800,18,Senegal,1635.10
 id14800,19,Switzerland,1635.08
@@ -692,7 +670,7 @@ id14800,47,Scotland,1474.68
 id14800,48,Romania,1474.46
 id14800,49,Tunisia,1471.10
 id14800,50,Slovenia,1469.76
-id14800,51,Cameroon,2.98
+id14800,51,Cameroon,1466.97
 id14800,52,Slovakia,1466.56
 id14800,53,Qatar,1459.85
 id14800,54,Mali,1454.72
@@ -706,7 +684,7 @@ id14800,61,Congo DR,1412.10
 id14800,62,North Macedonia,1390.79
 id14800,63,Burkina Faso,1388.03
 id14800,64,Jordan,1387.79
-id14800,65,United Arab Emirates,0.28
+id14800,65,United Arab Emirates,1379.86
 id14800,66,Honduras,1379.84
 id14800,67,Georgia,1375.23
 id14800,68,Albania,1373.15
@@ -721,20 +699,20 @@ id14800,76,Ghana,1333.33
 id14800,77,Montenegro,1327.28
 id14800,78,Bolivia,1315.71
 id14800,79,Oman,1314.41
-id14800,80,Gabon,0.48
+id14800,80,Gabon,1306.60
 id14800,81,Guinea,1292.63
 id14800,82,New Zealand,1288.86
-id14800,83,Zambia,0.86
+id14800,83,Zambia,1285.32
 id14800,84,Bulgaria,1284.42
 id14800,85,Angola,1279.55
 id14800,86,Curaçao,1277.22
 id14800,87,El Salvador,1272.70
-id14800,88,Uganda,9.59
+id14800,88,Uganda,1269.37
 id14800,89,Bahrain,1266.96
 id14800,90,Haiti,1261.42
 id14800,91,Syria,1260.82
 id14800,92,Luxembourg,1260.17
-id14800,93,Equatorial Guinea,0.08
+id14800,93,Equatorial Guinea,1251.59
 id14800,94,China PR,1249.46
 id14800,95,Kosovo,1247.71
 id14800,96,Benin,1238.97
@@ -744,44 +722,44 @@ id14800,99,Mozambique,1236.18
 id14800,100,Guatemala,1235.63
 id14800,101,Trinidad and Tobago,1229.11
 id14800,102,Thailand,1222.07
-id14800,103,Tanzania,2.28
+id14800,103,Tanzania,1209.23
 id14800,104,Kyrgyz Republic,1208.57
 id14800,105,Armenia,1204.78
 id14800,106,Tajikistan,1202.54
-id14800,107,Comoros,5.15
-id14800,108,Namibia,0.43
+id14800,107,Comoros,1198.51
+id14800,108,Namibia,1192.29
 id14800,109,Kenya,1179.06
-id14800,110,Sudan,0.00
+id14800,110,Sudan,1173.59
 id14800,111,Mauritania,1173.04
 id14800,112,Lebanon,1172.44
-id14800,113,Vietnam,9.67
+id14800,113,Vietnam,1169.92
 id14800,114,Kazakhstan,1165.49
 id14800,115,Madagascar,1162.86
 id14800,116,Zimbabwe,1157.45
-id14800,117,Libya,0.99
+id14800,117,Libya,1155.19
 id14800,118,Indonesia,1154.55
-id14800,119,Korea DPR,3.58
+id14800,119,Korea DPR,1151.05
 id14800,120,Togo,1149.49
 id14800,121,Niger,1148.22
 id14800,122,Azerbaijan,1148.00
 id14800,123,The Gambia,1141.36
 id14800,124,Sierra Leone,1140.06
-id14800,125,Malaysia,9.67
+id14800,125,Malaysia,1138.48
 id14800,126,Estonia,1131.33
-id14800,127,Rwanda,5.04
+id14800,127,Rwanda,1125.47
 id14800,128,Cyprus,1124.36
 id14800,129,Malawi,1121.10
 id14800,130,Nicaragua,1120.02
-id14800,131,Guinea-Bissau,2.66
-id14800,132,Congo,2.28
+id14800,131,Guinea-Bissau,1119.54
+id14800,132,Congo,1116.26
 id14800,133,India,1113.22
 id14800,134,Central African Republic,1107.54
-id14800,135,Botswana,5.72
-id14800,136,Suriname,8.11
+id14800,135,Botswana,1101.20
+id14800,136,Suriname,1099.98
 id14800,137,Latvia,1099.29
 id14800,138,Kuwait,1098.87
-id14800,139,Burundi,8.70
-id14800,140,Turkmenistan,8.87
+id14800,139,Burundi,1092.51
+id14800,140,Turkmenistan,1092.40
 id14800,141,Faroe Islands,1089.74
 id14800,142,Dominican Republic,1076.77
 id14800,143,Lithuania,1069.20
@@ -790,74 +768,69 @@ id14800,145,Philippines,1066.35
 id14800,146,Ethiopia,1060.62
 id14800,147,"Hong Kong, China",1046.91
 id14800,148,Lesotho,1046.35
-id14800,149,Solomon Islands,5.05
+id14800,149,Solomon Islands,1045.58
 id14800,150,Fiji,1043.44
-id14800,151,St Kitts and Nevis,5.05
-id14800,152,New Caledonia,5.67
-id14800,153,Guyana,3.73
+id14800,151,St Kitts and Nevis,1041.53
+id14800,152,New Caledonia,1039.55
+id14800,153,Guyana,1037.34
 id14800,154,Moldova,1028.26
-id14800,155,Eswatini,15.39
+id14800,155,Eswatini,1022.87
 id14800,156,Yemen,1021.25
 id14800,157,Puerto Rico,1020.44
-id14800,158,Tahiti,12.43
+id14800,158,Tahiti,1019.04
 id14800,159,Singapore,1017.29
 id14800,160,Myanmar,1004.06
 id14800,161,Afghanistan,1001.37
 id14800,162,Bermuda,1000.04
-id14800,163,Antigua and Barbuda,4.56
+id14800,163,Antigua and Barbuda,992.38
 id14800,164,Vanuatu,991.59
-id14800,165,St Lucia,3.58
-id14800,166,Cuba,0.93
+id14800,165,St Lucia,990.69
+id14800,166,Cuba,980.33
 id14800,167,Grenada,978.40
 id14800,168,Malta,977.43
-id14800,169,South Sudan,15.99
-id14800,170,Papua New Guinea,5.73
+id14800,169,South Sudan,975.60
+id14800,170,Papua New Guinea,969.17
 id14800,171,Maldives,965.75
-id14800,172,Chinese Taipei,14.42
-id14800,173,St Vincent and the Grenadines,4.53
+id14800,172,Chinese Taipei,964.06
+id14800,173,St Vincent and the Grenadines,962.43
 id14800,174,Andorra,953.95
-id14800,175,Chad,8.70
-id14800,176,Nepal,13.87
-id14800,177,Mauritius,1.96
-id14800,178,Barbados,4.53
-id14800,179,Montserrat,10.12
+id14800,175,Chad,924.60
+id14800,176,Nepal,923.25
+id14800,177,Mauritius,921.61
+id14800,178,Barbados,919.97
+id14800,179,Montserrat,916.75
 id14800,180,Cambodia,910.21
-id14800,181,Belize,3.73
-id14800,182,Dominica,3.68
+id14800,181,Belize,904.45
+id14800,182,Dominica,901.37
 id14800,183,Brunei Darussalam,900.62
 id14800,184,Bangladesh,899.01
-id14800,185,Laos,13.87
+id14800,185,Laos,890.35
 id14800,186,Bhutan,888.94
-id14800,187,American Samoa,5.55
+id14800,187,American Samoa,883.17
 id14800,188,Mongolia,879.75
-id14800,189,Cook Islands,5.05
-id14800,190,Samoa,4.66
-id14800,191,Djibouti,15.99
-id14800,192,Macau,2.28
-id14800,193,São Tomé and Príncipe,7.92
+id14800,189,Cook Islands,877.53
+id14800,190,Samoa,876.41
+id14800,191,Djibouti,865.75
+id14800,192,Macau,865.29
+id14800,193,São Tomé and Príncipe,865.08
 id14800,194,Aruba,861.16
 id14800,195,Timor-Leste,855.36
 id14800,196,Sri Lanka,855.13
 id14800,197,Cayman Islands,853.37
-id14800,198,Tonga,11.49
+id14800,198,Tonga,835.64
 id14800,199,Gibraltar,835.18
-id14800,200,Somalia,8.21
+id14800,200,Somalia,832.13
 id14800,201,Pakistan,829.41
 id14800,202,Guam,823.08
-id14800,203,Seychelles,6.94
+id14800,203,Seychelles,820.71
 id14800,204,Liechtenstein,811.66
-id14800,205,Bahamas,4.43
-id14800,206,Turks and Caicos Islands,5.95
-id14800,207,US Virgin Islands,2.84
+id14800,205,Bahamas,807.36
+id14800,206,Turks and Caicos Islands,803.98
+id14800,207,US Virgin Islands,779.71
 id14800,208,British Virgin Islands,768.50
-id14800,209,Anguilla,4.88
+id14800,209,Anguilla,758.52
 id14800,210,San Marino,738.24
-id14800,-,Eritrea (unranked),15.39
-id14870,1,Spain,1875.37
-id14870,2,France,1870.92
-id14870,3,Argentina,1870.32
-id14870,4,England,1820.44
-id14870,5,Portugal,1779.55
+id14800,-,Eritrea (unranked), 0
 id14870,6,Brazil,1761.60
 id14870,7,Netherlands,1754.17
 id14870,8,Belgium,1739.54
@@ -867,7 +840,7 @@ id14870,11,Morocco,1706.27
 id14870,12,Germany,1704.27
 id14870,13,Colombia,1692.10
 id14870,14,Mexico,1688.38
-id14870,15,Uruguay,1.05
+id14870,15,Uruguay,1673.65
 id14870,16,USA,1670.04
 id14870,17,Switzerland,1648.30
 id14870,18,Senegal,1645.23
@@ -904,7 +877,7 @@ id14870,48,Peru,1469.31
 id14870,49,Venezuela,1465.02
 id14870,50,Slovenia,1462.96
 id14870,51,Romania,1462.85
-id14870,52,Cameroon,2.98
+id14870,52,Cameroon,1455.42
 id14870,53,Qatar,1453.65
 id14870,54,Uzbekistan,1453.31
 id14870,55,South Africa,1448.67
@@ -919,7 +892,7 @@ id14870,63,North Macedonia,1388.50
 id14870,64,Burkina Faso,1385.37
 id14870,65,Honduras,1383.98
 id14870,66,Albania,1380.66
-id14870,67,United Arab Emirates,0.28
+id14870,67,United Arab Emirates,1379.86
 id14870,68,Georgia,1377.32
 id14870,69,Jamaica,1377.22
 id14870,70,Cabo Verde,1363.21
@@ -931,13 +904,13 @@ id14870,75,Ghana,1340.84
 id14870,76,Israel,1337.40
 id14870,77,Bolivia,1332.24
 id14870,78,Oman,1320.34
-id14870,79,Gabon,0.48
+id14870,79,Gabon,1314.06
 id14870,80,Montenegro,1314.05
 id14870,81,Guinea,1299.49
-id14870,82,Uganda,9.59
+id14870,82,Uganda,1287.61
 id14870,83,New Zealand,1283.94
 id14870,84,Curaçao,1282.42
-id14870,85,Zambia,0.86
+id14870,85,Zambia,1273.00
 id14870,86,Bulgaria,1271.52
 id14870,87,Haiti,1269.24
 id14870,88,Bahrain,1268.73
@@ -947,7 +920,7 @@ id14870,91,Kosovo,1262.10
 id14870,92,Syria,1259.32
 id14870,93,Benin,1257.30
 id14870,94,China PR,1249.06
-id14870,95,Equatorial Guinea,0.08
+id14870,95,Equatorial Guinea,1248.68
 id14870,96,Luxembourg,1242.61
 id14870,97,Mozambique,1234.04
 id14870,98,Guatemala,1230.73
@@ -957,116 +930,113 @@ id14870,101,Thailand,1222.20
 id14870,102,Trinidad and Tobago,1220.99
 id14870,103,Armenia,1219.55
 id14870,104,Tajikistan,1206.15
-id14870,105,Comoros,5.15
+id14870,105,Comoros,1201.83
 id14870,106,Kyrgyz Republic,1201.22
-id14870,107,Tanzania,2.28
+id14870,107,Tanzania,1199.45
 id14870,108,Madagascar,1187.59
-id14870,109,Namibia,0.43
+id14870,109,Namibia,1183.80
 id14870,110,Mauritania,1183.28
 id14870,111,Kenya,1181.64
-id14870,112,Libya,0.99
+id14870,112,Libya,1179.57
 id14870,113,Lebanon,1172.30
-id14870,114,Vietnam,9.67
+id14870,114,Vietnam,1169.92
 id14870,115,The Gambia,1165.93
-id14870,116,Sudan,0.00
+id14870,116,Sudan,1163.56
 id14870,117,Niger,1160.33
 id14870,118,Kazakhstan,1158.06
 id14870,119,Indonesia,1157.94
 id14870,120,Togo,1151.08
-id14870,121,Korea DPR,3.58
+id14870,121,Korea DPR,1151.05
 id14870,122,Sierra Leone,1150.10
-id14870,123,Malaysia,9.67
+id14870,123,Malaysia,1148.23
 id14870,124,Azerbaijan,1148.09
 id14870,125,Zimbabwe,1133.75
 id14870,126,Malawi,1133.60
-id14870,127,Rwanda,5.04
+id14870,127,Rwanda,1133.50
 id14870,128,Cyprus,1128.10
 id14870,129,Estonia,1127.20
-id14870,130,Guinea-Bissau,2.66
-id14870,131,Suriname,8.11
+id14870,130,Guinea-Bissau,1126.81
+id14870,131,Suriname,1125.21
 id14870,132,Nicaragua,1120.78
-id14870,133,Congo,2.28
+id14870,133,Congo,1119.77
 id14870,134,India,1113.80
 id14870,135,Kuwait,1100.38
 id14870,136,Faroe Islands,1094.46
 id14870,137,Latvia,1088.80
-id14870,138,Turkmenistan,8.87
-id14870,139,Botswana,5.72
+id14870,138,Turkmenistan,1087.96
+id14870,139,Botswana,1087.27
 id14870,140,Central African Republic,1081.36
-id14870,141,Burundi,8.70
+id14870,141,Burundi,1077.05
 id14870,142,Dominican Republic,1074.46
 id14870,143,Philippines,1066.35
 id14870,144,Liberia,1065.62
 id14870,145,Lithuania,1065.34
 id14870,146,"Hong Kong, China",1047.36
 id14870,147,Ethiopia,1046.41
-id14870,148,Solomon Islands,5.05
-id14870,149,St Kitts and Nevis,5.05
-id14870,150,New Caledonia,5.67
-id14870,151,Guyana,3.73
+id14870,148,Solomon Islands,1045.58
+id14870,149,St Kitts and Nevis,1041.53
+id14870,150,New Caledonia,1039.55
+id14870,151,Guyana,1037.34
 id14870,152,Fiji,1035.11
 id14870,153,Lesotho,1034.10
 id14870,154,Yemen,1021.25
 id14870,155,Puerto Rico,1020.44
 id14870,156,Moldova,1019.20
-id14870,157,Tahiti,12.43
+id14870,157,Tahiti,1019.04
 id14870,158,Singapore,1013.34
-id14870,159,Eswatini,15.39
+id14870,159,Eswatini,1010.06
 id14870,160,Myanmar,1004.15
 id14870,161,Afghanistan,998.88
-id14870,162,Antigua and Barbuda,4.56
+id14870,162,Antigua and Barbuda,992.38
 id14870,163,Vanuatu,991.59
-id14870,164,St Lucia,3.58
+id14870,164,St Lucia,990.69
 id14870,165,Bermuda,988.72
 id14870,166,Malta,982.43
-id14870,167,Cuba,0.93
+id14870,167,Cuba,980.33
 id14870,168,Grenada,978.40
-id14870,169,South Sudan,15.99
-id14870,170,Papua New Guinea,5.73
+id14870,169,South Sudan,976.56
+id14870,170,Papua New Guinea,969.17
 id14870,171,Maldives,968.59
-id14870,172,St Vincent and the Grenadines,4.53
-id14870,173,Chinese Taipei,14.42
+id14870,172,St Vincent and the Grenadines,962.43
+id14870,173,Chinese Taipei,960.81
 id14870,174,Andorra,954.68
-id14870,175,Chad,8.70
-id14870,176,Nepal,13.87
-id14870,177,Barbados,4.53
-id14870,178,Montserrat,10.12
-id14870,179,Mauritius,1.96
+id14870,175,Chad,925.82
+id14870,176,Nepal,923.02
+id14870,177,Barbados,919.97
+id14870,178,Montserrat,916.75
+id14870,179,Mauritius,912.24
 id14870,180,Cambodia,910.21
-id14870,181,Belize,3.73
-id14870,182,Dominica,3.68
+id14870,181,Belize,904.45
+id14870,182,Dominica,901.37
 id14870,183,Brunei Darussalam,900.62
 id14870,184,Bangladesh,899.24
-id14870,185,Laos,13.87
+id14870,185,Laos,890.35
 id14870,186,Bhutan,888.94
-id14870,187,American Samoa,5.55
+id14870,187,American Samoa,883.17
 id14870,188,Mongolia,879.75
-id14870,189,Cook Islands,5.05
-id14870,190,Samoa,4.66
-id14870,191,Macau,2.28
+id14870,189,Cook Islands,877.53
+id14870,190,Samoa,876.41
+id14870,191,Macau,865.29
 id14870,192,Aruba,861.16
-id14870,193,Djibouti,15.99
+id14870,193,Djibouti,855.91
 id14870,194,Timor-Leste,855.36
-id14870,195,São Tomé and Príncipe,7.92
+id14870,195,São Tomé and Príncipe,854.76
 id14870,196,Cayman Islands,853.37
 id14870,197,Sri Lanka,852.30
-id14870,198,Tonga,11.49
+id14870,198,Tonga,835.64
 id14870,199,Pakistan,829.41
 id14870,200,Gibraltar,827.19
-id14870,201,Somalia,8.21
+id14870,201,Somalia,824.76
 id14870,202,Guam,823.08
-id14870,203,Seychelles,6.94
+id14870,203,Seychelles,812.32
 id14870,204,Liechtenstein,808.48
-id14870,205,Bahamas,4.43
-id14870,206,Turks and Caicos Islands,5.95
-id14870,207,US Virgin Islands,2.84
+id14870,205,Bahamas,807.36
+id14870,206,Turks and Caicos Islands,803.98
+id14870,207,US Virgin Islands,779.71
 id14870,208,British Virgin Islands,768.50
-id14870,209,Anguilla,4.88
+id14870,209,Anguilla,758.52
 id14870,210,San Marino,733.23
-id14870,-,Eritrea (unranked),15.39
-FRS_Male_Football_20250910,1,Spain,1880.76
-FRS_Male_Football_20250910,2,Argentina,1872.43
-FRS_Male_Football_20250910,3,France,1862.71
+id14870,-,Eritrea (unranked), 0
 FRS_Male_Football_20250910,4,England,1824.30
 FRS_Male_Football_20250910,5,Portugal,1778.00
 FRS_Male_Football_20250910,6,Netherlands,1759.96
@@ -1078,7 +1048,7 @@ FRS_Male_Football_20250910,11,Croatia,1710.15
 FRS_Male_Football_20250910,12,Morocco,1710.11
 FRS_Male_Football_20250910,13,Colombia,1695.72
 FRS_Male_Football_20250910,14,Mexico,1682.52
-FRS_Male_Football_20250910,15,Uruguay,1.05
+FRS_Male_Football_20250910,15,Uruguay,1677.57
 FRS_Male_Football_20250910,16,USA,1673.49
 FRS_Male_Football_20250910,17,Switzerland,1653.32
 FRS_Male_Football_20250910,18,Senegal,1650.61
@@ -1117,7 +1087,7 @@ FRS_Male_Football_20250910,50,Venezuela,1463.27
 FRS_Male_Football_20250910,51,Slovenia,1462.93
 FRS_Male_Football_20250910,52,Qatar,1461.60
 FRS_Male_Football_20250910,53,Mali,1455.78
-FRS_Male_Football_20250910,54,Cameroon,2.98
+FRS_Male_Football_20250910,54,Cameroon,1453.71
 FRS_Male_Football_20250910,55,Uzbekistan,1452.34
 FRS_Male_Football_20250910,56,Chile,1446.93
 FRS_Male_Football_20250910,57,Iraq,1428.69
@@ -1130,7 +1100,7 @@ FRS_Male_Football_20250910,63,Burkina Faso,1398.05
 FRS_Male_Football_20250910,64,Honduras,1396.23
 FRS_Male_Football_20250910,65,North Macedonia,1390.60
 FRS_Male_Football_20250910,66,Jordan,1380.87
-FRS_Male_Football_20250910,67,United Arab Emirates,0.28
+FRS_Male_Football_20250910,67,United Arab Emirates,1379.93
 FRS_Male_Football_20250910,68,Jamaica,1367.18
 FRS_Male_Football_20250910,69,Northern Ireland,1366.27
 FRS_Male_Football_20250910,70,Georgia,1365.92
@@ -1140,17 +1110,17 @@ FRS_Male_Football_20250910,73,Ghana,1356.40
 FRS_Male_Football_20250910,74,Iceland,1344.84
 FRS_Male_Football_20250910,75,Bosnia and Herzegovina,1341.36
 FRS_Male_Football_20250910,76,Bolivia,1334.55
-FRS_Male_Football_20250910,77,Gabon,0.48
+FRS_Male_Football_20250910,77,Gabon,1329.91
 FRS_Male_Football_20250910,78,Israel,1324.57
 FRS_Male_Football_20250910,79,Oman,1312.32
 FRS_Male_Football_20250910,80,Guinea,1305.22
 FRS_Male_Football_20250910,81,Montenegro,1297.88
 FRS_Male_Football_20250910,82,Curaçao,1295.52
-FRS_Male_Football_20250910,83,Uganda,9.59
+FRS_Male_Football_20250910,83,Uganda,1287.75
 FRS_Male_Football_20250910,84,Kosovo,1284.73
 FRS_Male_Football_20250910,85,New Zealand,1283.30
 FRS_Male_Football_20250910,86,Syria,1274.16
-FRS_Male_Football_20250910,87,Zambia,0.86
+FRS_Male_Football_20250910,87,Zambia,1268.60
 FRS_Male_Football_20250910,88,Haiti,1268.32
 FRS_Male_Football_20250910,89,Angola,1267.45
 FRS_Male_Football_20250910,90,Bahrain,1267.16
@@ -1162,7 +1132,7 @@ FRS_Male_Football_20250910,95,Guatemala,1241.52
 FRS_Male_Football_20250910,96,Thailand,1235.36
 FRS_Male_Football_20250910,97,Luxembourg,1231.80
 FRS_Male_Football_20250910,98,Palestine,1230.55
-FRS_Male_Football_20250910,99,Equatorial Guinea,0.08
+FRS_Male_Football_20250910,99,Equatorial Guinea,1229.91
 FRS_Male_Football_20250910,100,Trinidad and Tobago,1229.90
 FRS_Male_Football_20250910,101,Mozambique,1227.53
 FRS_Male_Football_20250910,102,Tajikistan,1220.21
@@ -1170,127 +1140,116 @@ FRS_Male_Football_20250910,103,Belarus,1212.78
 FRS_Male_Football_20250910,104,Armenia,1204.70
 FRS_Male_Football_20250910,105,Kyrgyz Republic,1201.22
 FRS_Male_Football_20250910,106,Madagascar,1193.48
-FRS_Male_Football_20250910,107,Tanzania,2.28
+FRS_Male_Football_20250910,107,Tanzania,1187.08
 FRS_Male_Football_20250910,108,Niger,1187.00
 FRS_Male_Football_20250910,109,Kenya,1185.55
 FRS_Male_Football_20250910,110,Lebanon,1184.68
-FRS_Male_Football_20250910,111,Vietnam,9.67
-FRS_Male_Football_20250910,112,Comoros,5.15
+FRS_Male_Football_20250910,111,Vietnam,1183.62
+FRS_Male_Football_20250910,112,Comoros,1180.18
 FRS_Male_Football_20250910,113,Mauritania,1179.20
-FRS_Male_Football_20250910,114,Libya,0.99
+FRS_Male_Football_20250910,114,Libya,1177.77
 FRS_Male_Football_20250910,115,Kazakhstan,1168.47
-FRS_Male_Football_20250910,116,Namibia,0.43
+FRS_Male_Football_20250910,116,Namibia,1162.79
 FRS_Male_Football_20250910,117,The Gambia,1162.12
-FRS_Male_Football_20250910,118,Malaysia,9.67
-FRS_Male_Football_20250910,119,Sudan,0.00
-FRS_Male_Football_20250910,120,Korea DPR,3.58
+FRS_Male_Football_20250910,118,Malaysia,1161.53
+FRS_Male_Football_20250910,119,Sudan,1157.11
+FRS_Male_Football_20250910,120,Korea DPR,1151.05
 FRS_Male_Football_20250910,121,Sierra Leone,1149.10
 FRS_Male_Football_20250910,122,Indonesia,1144.73
 FRS_Male_Football_20250910,123,Azerbaijan,1142.25
 FRS_Male_Football_20250910,124,Togo,1140.35
 FRS_Male_Football_20250910,125,Cyprus,1137.43
-FRS_Male_Football_20250910,126,Suriname,8.11
+FRS_Male_Football_20250910,126,Suriname,1135.89
 FRS_Male_Football_20250910,127,Faroe Islands,1132.41
 FRS_Male_Football_20250910,128,Malawi,1129.89
 FRS_Male_Football_20250910,129,Zimbabwe,1125.55
 FRS_Male_Football_20250910,130,Estonia,1122.25
-FRS_Male_Football_20250910,131,Rwanda,5.04
-FRS_Male_Football_20250910,132,Guinea-Bissau,2.66
+FRS_Male_Football_20250910,131,Rwanda,1117.78
+FRS_Male_Football_20250910,132,Guinea-Bissau,1108.09
 FRS_Male_Football_20250910,133,Nicaragua,1106.83
-FRS_Male_Football_20250910,134,Congo,2.28
+FRS_Male_Football_20250910,134,Congo,1105.96
 FRS_Male_Football_20250910,135,Kuwait,1096.82
 FRS_Male_Football_20250910,136,India,1096.65
-FRS_Male_Football_20250910,137,Botswana,5.72
+FRS_Male_Football_20250910,137,Botswana,1084.56
 FRS_Male_Football_20250910,138,Liberia,1084.46
 FRS_Male_Football_20250910,139,Latvia,1084.26
 FRS_Male_Football_20250910,140,Central African Republic,1083.57
 FRS_Male_Football_20250910,141,Philippines,1081.44
-FRS_Male_Football_20250910,142,Turkmenistan,8.87
+FRS_Male_Football_20250910,142,Turkmenistan,1078.09
 FRS_Male_Football_20250910,143,Dominican Republic,1073.54
 FRS_Male_Football_20250910,144,Lesotho,1069.83
-FRS_Male_Football_20250910,145,Burundi,8.70
+FRS_Male_Football_20250910,145,Burundi,1060.22
 FRS_Male_Football_20250910,146,Lithuania,1055.58
 FRS_Male_Football_20250910,147,Ethiopia,1055.36
 FRS_Male_Football_20250910,148,"Hong Kong, China",1052.54
-FRS_Male_Football_20250910,149,Solomon Islands,5.05
-FRS_Male_Football_20250910,150,New Caledonia,5.67
-FRS_Male_Football_20250910,151,St Kitts and Nevis,5.05
+FRS_Male_Football_20250910,149,Solomon Islands,1045.58
+FRS_Male_Football_20250910,150,New Caledonia,1042.62
+FRS_Male_Football_20250910,151,St Kitts and Nevis,1041.53
 FRS_Male_Football_20250910,152,Yemen,1040.13
-FRS_Male_Football_20250910,153,Guyana,3.73
+FRS_Male_Football_20250910,153,Guyana,1037.34
 FRS_Male_Football_20250910,154,Fiji,1035.11
 FRS_Male_Football_20250910,155,Singapore,1030.49
 FRS_Male_Football_20250910,156,Moldova,1020.20
 FRS_Male_Football_20250910,157,Puerto Rico,1020.07
-FRS_Male_Football_20250910,158,Tahiti,12.43
-FRS_Male_Football_20250910,159,Eswatini,15.39
-FRS_Male_Football_20250910,160,Antigua and Barbuda,4.56
+FRS_Male_Football_20250910,158,Tahiti,1019.04
+FRS_Male_Football_20250910,159,Eswatini,1010.52
+FRS_Male_Football_20250910,160,Antigua and Barbuda,992.38
 FRS_Male_Football_20250910,161,Vanuatu,991.59
 FRS_Male_Football_20250910,162,Afghanistan,991.19
 FRS_Male_Football_20250910,163,Myanmar,990.81
-FRS_Male_Football_20250910,164,St Lucia,3.58
+FRS_Male_Football_20250910,164,St Lucia,990.69
 FRS_Male_Football_20250910,165,Grenada,986.48
 FRS_Male_Football_20250910,166,Malta,979.18
-FRS_Male_Football_20250910,167,South Sudan,15.99
+FRS_Male_Football_20250910,167,South Sudan,978.70
 FRS_Male_Football_20250910,168,Bermuda,976.75
-FRS_Male_Football_20250910,169,Cuba,0.93
-FRS_Male_Football_20250910,170,Papua New Guinea,5.73
-FRS_Male_Football_20250910,171,St Vincent and the Grenadines,4.53
+FRS_Male_Football_20250910,169,Cuba,975.34
+FRS_Male_Football_20250910,170,Papua New Guinea,969.17
+FRS_Male_Football_20250910,171,St Vincent and the Grenadines,962.43
 FRS_Male_Football_20250910,172,Andorra,955.10
 FRS_Male_Football_20250910,173,Maldives,954.53
-FRS_Male_Football_20250910,174,Chinese Taipei,14.42
-FRS_Male_Football_20250910,175,Barbados,4.53
-FRS_Male_Football_20250910,176,Montserrat,10.12
-FRS_Male_Football_20250910,177,Mauritius,1.96
-FRS_Male_Football_20250910,178,Chad,8.70
+FRS_Male_Football_20250910,174,Chinese Taipei,947.64
+FRS_Male_Football_20250910,175,Barbados,919.97
+FRS_Male_Football_20250910,176,Montserrat,916.75
+FRS_Male_Football_20250910,177,Mauritius,915.51
+FRS_Male_Football_20250910,178,Chad,913.87
 FRS_Male_Football_20250910,179,Cambodia,910.21
-FRS_Male_Football_20250910,180,Nepal,13.87
-FRS_Male_Football_20250910,181,Belize,3.73
-FRS_Male_Football_20250910,182,Dominica,3.68
+FRS_Male_Football_20250910,180,Nepal,909.32
+FRS_Male_Football_20250910,181,Belize,904.45
+FRS_Male_Football_20250910,182,Dominica,901.37
 FRS_Male_Football_20250910,183,Bangladesh,894.06
-FRS_Male_Football_20250910,184,American Samoa,5.55
+FRS_Male_Football_20250910,184,American Samoa,883.17
 FRS_Male_Football_20250910,185,Brunei Darussalam,881.74
 FRS_Male_Football_20250910,186,Mongolia,879.75
-FRS_Male_Football_20250910,187,Cook Islands,5.05
-FRS_Male_Football_20250910,188,Laos,13.87
+FRS_Male_Football_20250910,187,Cook Islands,877.53
+FRS_Male_Football_20250910,188,Laos,877.05
 FRS_Male_Football_20250910,189,Bhutan,876.56
-FRS_Male_Football_20250910,190,Samoa,4.66
-FRS_Male_Football_20250910,191,São Tomé and Príncipe,7.92
-FRS_Male_Football_20250910,192,Macau,2.28
+FRS_Male_Football_20250910,190,Samoa,876.41
+FRS_Male_Football_20250910,191,São Tomé and Príncipe,871.63
+FRS_Male_Football_20250910,192,Macau,865.29
 FRS_Male_Football_20250910,193,Sri Lanka,862.17
 FRS_Male_Football_20250910,194,Aruba,861.16
 FRS_Male_Football_20250910,195,Cayman Islands,853.37
-FRS_Male_Football_20250910,196,Djibouti,15.99
+FRS_Male_Football_20250910,196,Djibouti,847.89
 FRS_Male_Football_20250910,197,Timor-Leste,840.27
 FRS_Male_Football_20250910,198,Pakistan,837.09
-FRS_Male_Football_20250910,199,Tonga,11.49
+FRS_Male_Football_20250910,199,Tonga,835.64
 FRS_Male_Football_20250910,200,Gibraltar,823.32
 FRS_Male_Football_20250910,201,Guam,823.08
-FRS_Male_Football_20250910,202,Somalia,8.21
-FRS_Male_Football_20250910,203,Bahamas,4.43
-FRS_Male_Football_20250910,204,Seychelles,6.94
-FRS_Male_Football_20250910,205,Turks and Caicos Islands,5.95
+FRS_Male_Football_20250910,202,Somalia,818.59
+FRS_Male_Football_20250910,203,Bahamas,807.36
+FRS_Male_Football_20250910,204,Seychelles,805.33
+FRS_Male_Football_20250910,205,Turks and Caicos Islands,803.98
 FRS_Male_Football_20250910,206,Liechtenstein,801.99
-FRS_Male_Football_20250910,207,US Virgin Islands,2.84
+FRS_Male_Football_20250910,207,US Virgin Islands,779.71
 FRS_Male_Football_20250910,208,British Virgin Islands,765.41
-FRS_Male_Football_20250910,209,Anguilla,4.88
+FRS_Male_Football_20250910,209,Anguilla,758.52
 FRS_Male_Football_20250910,210,San Marino,727.95
-FRS_Male_Football_20250910,-,Eritrea (unranked),15.39
-FRS_Male_Football_20251015,1,Spain,1877.18
-FRS_Male_Football_20251015,2,Argentina,1873.33
-FRS_Male_Football_20251015,3,France,1870.00
-FRS_Male_Football_20251015,4,England,1834.12
-FRS_Male_Football_20251015,5,Brazil,1760.46
-FRS_Male_Football_20251015,6,Portugal,1760.38
-FRS_Male_Football_20251015,7,Netherlands,1756.27
-FRS_Male_Football_20251015,8,Belgium,1730.71
-FRS_Male_Football_20251015,9,Germany,1724.15
-FRS_Male_Football_20251015,10,Croatia,1716.88
-FRS_Male_Football_20251015,11,Morocco,1713.12
+FRS_Male_Football_20250910,-,Eritrea (unranked), 0
 FRS_Male_Football_20251015,12,Italy,1702.06
 FRS_Male_Football_20251015,13,Colombia,1701.30
 FRS_Male_Football_20251015,14,USA,1681.88
 FRS_Male_Football_20251015,15,Mexico,1675.75
-FRS_Male_Football_20251015,16,Uruguay,1.05
+FRS_Male_Football_20251015,16,Uruguay,1672.62
 FRS_Male_Football_20251015,17,Switzerland,1654.69
 FRS_Male_Football_20251015,18,Japan,1650.12
 FRS_Male_Football_20251015,19,Senegal,1648.07
@@ -1331,7 +1290,7 @@ FRS_Male_Football_20251015,53,Chile,1457.84
 FRS_Male_Football_20251015,54,Mali,1455.03
 FRS_Male_Football_20251015,55,Slovenia,1447.31
 FRS_Male_Football_20251015,56,Congo DR,1442.50
-FRS_Male_Football_20251015,57,Cameroon,2.98
+FRS_Male_Football_20251015,57,Cameroon,1440.43
 FRS_Male_Football_20251015,58,Iraq,1438.92
 FRS_Male_Football_20251015,59,Republic of Ireland,1436.04
 FRS_Male_Football_20251015,60,Saudi Arabia,1428.74
@@ -1341,7 +1300,7 @@ FRS_Male_Football_20251015,63,Albania,1401.07
 FRS_Male_Football_20251015,64,Honduras,1379.54
 FRS_Male_Football_20251015,65,North Macedonia,1378.57
 FRS_Male_Football_20251015,66,Jordan,1377.66
-FRS_Male_Football_20251015,67,United Arab Emirates,0.28
+FRS_Male_Football_20251015,67,United Arab Emirates,1369.71
 FRS_Male_Football_20251015,68,Cabo Verde,1367.95
 FRS_Male_Football_20251015,69,Northern Ireland,1366.02
 FRS_Male_Football_20251015,70,Jamaica,1362.46
@@ -1352,26 +1311,26 @@ FRS_Male_Football_20251015,74,Iceland,1344.72
 FRS_Male_Football_20251015,75,Finland,1341.81
 FRS_Male_Football_20251015,76,Bolivia,1329.56
 FRS_Male_Football_20251015,77,Israel,1328.14
-FRS_Male_Football_20251015,78,Gabon,0.48
+FRS_Male_Football_20251015,78,Gabon,1321.25
 FRS_Male_Football_20251015,79,Oman,1312.45
 FRS_Male_Football_20251015,80,Kosovo,1308.84
 FRS_Male_Football_20251015,81,Guinea,1307.05
 FRS_Male_Football_20251015,82,Curaçao,1302.70
 FRS_Male_Football_20251015,83,Montenegro,1297.09
 FRS_Male_Football_20251015,84,Haiti,1294.49
-FRS_Male_Football_20251015,85,Uganda,9.59
+FRS_Male_Football_20251015,85,Uganda,1288.01
 FRS_Male_Football_20251015,86,New Zealand,1279.25
 FRS_Male_Football_20251015,87,Syria,1278.10
 FRS_Male_Football_20251015,88,Bulgaria,1272.19
 FRS_Male_Football_20251015,89,Angola,1271.54
-FRS_Male_Football_20251015,90,Zambia,0.86
+FRS_Male_Football_20251015,90,Zambia,1260.06
 FRS_Male_Football_20251015,91,Bahrain,1258.68
 FRS_Male_Football_20251015,92,Benin,1255.72
 FRS_Male_Football_20251015,93,China PR,1249.06
 FRS_Male_Football_20251015,94,Guatemala,1245.77
 FRS_Male_Football_20251015,95,Thailand,1243.27
 FRS_Male_Football_20251015,96,Palestine,1230.55
-FRS_Male_Football_20251015,97,Equatorial Guinea,0.08
+FRS_Male_Football_20251015,97,Equatorial Guinea,1229.09
 FRS_Male_Football_20251015,98,Trinidad and Tobago,1227.32
 FRS_Male_Football_20251015,99,Belarus,1227.09
 FRS_Male_Football_20251015,100,El Salvador,1226.65
@@ -1382,22 +1341,22 @@ FRS_Male_Football_20251015,104,Kyrgyz Republic,1201.22
 FRS_Male_Football_20251015,105,Madagascar,1198.87
 FRS_Male_Football_20251015,106,Armenia,1196.08
 FRS_Male_Football_20251015,107,Lebanon,1190.64
-FRS_Male_Football_20251015,108,Comoros,5.15
+FRS_Male_Football_20251015,108,Comoros,1189.75
 FRS_Male_Football_20251015,109,Niger,1185.09
-FRS_Male_Football_20251015,110,Vietnam,9.67
-FRS_Male_Football_20251015,111,Libya,0.99
-FRS_Male_Football_20251015,112,Tanzania,2.28
+FRS_Male_Football_20251015,110,Vietnam,1183.62
+FRS_Male_Football_20251015,111,Libya,1182.78
+FRS_Male_Football_20251015,112,Tanzania,1181.22
 FRS_Male_Football_20251015,113,Kenya,1179.54
 FRS_Male_Football_20251015,114,Mauritania,1174.19
 FRS_Male_Football_20251015,115,Kazakhstan,1173.00
-FRS_Male_Football_20251015,116,Malaysia,9.67
+FRS_Male_Football_20251015,116,Malaysia,1168.41
 FRS_Male_Football_20251015,117,The Gambia,1161.55
-FRS_Male_Football_20251015,118,Sudan,0.00
-FRS_Male_Football_20251015,119,Namibia,0.43
-FRS_Male_Football_20251015,120,Korea DPR,3.58
+FRS_Male_Football_20251015,118,Sudan,1153.56
+FRS_Male_Football_20251015,119,Namibia,1153.22
+FRS_Male_Football_20251015,120,Korea DPR,1151.05
 FRS_Male_Football_20251015,121,Sierra Leone,1149.10
 FRS_Male_Football_20251015,122,Indonesia,1144.73
-FRS_Male_Football_20251015,123,Suriname,8.11
+FRS_Male_Football_20251015,123,Suriname,1140.54
 FRS_Male_Football_20251015,124,Togo,1140.35
 FRS_Male_Football_20251015,125,Faroe Islands,1135.42
 FRS_Male_Football_20251015,126,Malawi,1133.75
@@ -1405,103 +1364,94 @@ FRS_Male_Football_20251015,127,Azerbaijan,1132.97
 FRS_Male_Football_20251015,128,Cyprus,1128.50
 FRS_Male_Football_20251015,129,Zimbabwe,1123.69
 FRS_Male_Football_20251015,130,Estonia,1123.11
-FRS_Male_Football_20251015,131,Rwanda,5.04
+FRS_Male_Football_20251015,131,Rwanda,1117.78
 FRS_Male_Football_20251015,132,Nicaragua,1116.86
-FRS_Male_Football_20251015,133,Guinea-Bissau,2.66
-FRS_Male_Football_20251015,134,Congo,2.28
+FRS_Male_Football_20251015,133,Guinea-Bissau,1108.09
+FRS_Male_Football_20251015,134,Congo,1105.96
 FRS_Male_Football_20251015,135,Kuwait,1103.25
 FRS_Male_Football_20251015,136,Philippines,1090.95
-FRS_Male_Football_20251015,137,Turkmenistan,8.87
-FRS_Male_Football_20251015,138,Botswana,5.72
+FRS_Male_Football_20251015,137,Turkmenistan,1087.52
+FRS_Male_Football_20251015,138,Botswana,1084.56
 FRS_Male_Football_20251015,139,Central African Republic,1083.57
 FRS_Male_Football_20251015,140,Latvia,1082.68
 FRS_Male_Football_20251015,141,Liberia,1081.46
 FRS_Male_Football_20251015,142,India,1079.52
 FRS_Male_Football_20251015,143,Dominican Republic,1077.49
 FRS_Male_Football_20251015,144,Lesotho,1065.97
-FRS_Male_Football_20251015,145,Burundi,8.70
+FRS_Male_Football_20251015,145,Burundi,1060.22
 FRS_Male_Football_20251015,146,Lithuania,1056.34
 FRS_Male_Football_20251015,147,Ethiopia,1055.36
 FRS_Male_Football_20251015,148,Yemen,1048.83
-FRS_Male_Football_20251015,149,New Caledonia,5.67
-FRS_Male_Football_20251015,150,Guyana,3.73
+FRS_Male_Football_20251015,149,New Caledonia,1042.62
+FRS_Male_Football_20251015,150,Guyana,1041.90
 FRS_Male_Football_20251015,151,Singapore,1040.43
-FRS_Male_Football_20251015,152,Solomon Islands,5.05
+FRS_Male_Football_20251015,152,Solomon Islands,1039.86
 FRS_Male_Football_20251015,153,"Hong Kong, China",1038.14
-FRS_Male_Football_20251015,154,St Kitts and Nevis,5.05
+FRS_Male_Football_20251015,154,St Kitts and Nevis,1035.25
 FRS_Male_Football_20251015,155,Fiji,1029.70
 FRS_Male_Football_20251015,156,Puerto Rico,1020.07
-FRS_Male_Football_20251015,157,Tahiti,12.43
+FRS_Male_Football_20251015,157,Tahiti,1019.04
 FRS_Male_Football_20251015,158,Moldova,1012.64
-FRS_Male_Football_20251015,159,Eswatini,15.39
+FRS_Male_Football_20251015,159,Eswatini,1010.52
 FRS_Male_Football_20251015,160,Vanuatu,997.01
 FRS_Male_Football_20251015,161,Malta,996.59
 FRS_Male_Football_20251015,162,Afghanistan,991.19
 FRS_Male_Football_20251015,163,Myanmar,990.81
 FRS_Male_Football_20251015,164,Grenada,989.59
-FRS_Male_Football_20251015,165,Antigua and Barbuda,4.56
-FRS_Male_Football_20251015,166,Cuba,0.93
-FRS_Male_Football_20251015,167,St Lucia,3.58
-FRS_Male_Football_20251015,168,South Sudan,15.99
+FRS_Male_Football_20251015,165,Antigua and Barbuda,986.58
+FRS_Male_Football_20251015,166,Cuba,980.49
+FRS_Male_Football_20251015,167,St Lucia,980.28
+FRS_Male_Football_20251015,168,South Sudan,978.70
 FRS_Male_Football_20251015,169,Bermuda,976.87
-FRS_Male_Football_20251015,170,Papua New Guinea,5.73
-FRS_Male_Football_20251015,171,St Vincent and the Grenadines,4.53
+FRS_Male_Football_20251015,170,Papua New Guinea,974.90
+FRS_Male_Football_20251015,171,St Vincent and the Grenadines,963.74
 FRS_Male_Football_20251015,172,Andorra,949.44
 FRS_Male_Football_20251015,173,Maldives,945.02
-FRS_Male_Football_20251015,174,Chinese Taipei,14.42
-FRS_Male_Football_20251015,175,Montserrat,10.12
-FRS_Male_Football_20251015,176,Mauritius,1.96
-FRS_Male_Football_20251015,177,Chad,8.70
-FRS_Male_Football_20251015,178,Barbados,4.53
+FRS_Male_Football_20251015,174,Chinese Taipei,938.21
+FRS_Male_Football_20251015,175,Montserrat,916.75
+FRS_Male_Football_20251015,176,Mauritius,915.51
+FRS_Male_Football_20251015,177,Chad,914.65
+FRS_Male_Football_20251015,178,Barbados,914.42
 FRS_Male_Football_20251015,179,Cambodia,911.54
 FRS_Male_Football_20251015,180,Bangladesh,911.19
-FRS_Male_Football_20251015,181,Belize,3.73
-FRS_Male_Football_20251015,182,Nepal,13.87
-FRS_Male_Football_20251015,183,Dominica,3.68
-FRS_Male_Football_20251015,184,American Samoa,5.55
+FRS_Male_Football_20251015,181,Belize,910.74
+FRS_Male_Football_20251015,182,Nepal,902.44
+FRS_Male_Football_20251015,183,Dominica,901.37
+FRS_Male_Football_20251015,184,American Samoa,883.17
 FRS_Male_Football_20251015,185,Mongolia,879.75
-FRS_Male_Football_20251015,186,Cook Islands,5.05
-FRS_Male_Football_20251015,187,Laos,13.87
-FRS_Male_Football_20251015,188,Samoa,4.66
+FRS_Male_Football_20251015,186,Cook Islands,877.53
+FRS_Male_Football_20251015,187,Laos,877.05
+FRS_Male_Football_20251015,188,Samoa,876.41
 FRS_Male_Football_20251015,189,Brunei Darussalam,875.78
-FRS_Male_Football_20251015,190,São Tomé and Príncipe,7.92
+FRS_Male_Football_20251015,190,São Tomé and Príncipe,871.63
 FRS_Male_Football_20251015,191,Aruba,867.94
 FRS_Male_Football_20251015,192,Bhutan,867.86
-FRS_Male_Football_20251015,193,Macau,2.28
+FRS_Male_Football_20251015,193,Macau,865.29
 FRS_Male_Football_20251015,194,Sri Lanka,857.40
 FRS_Male_Football_20251015,195,Cayman Islands,851.74
-FRS_Male_Football_20251015,196,Djibouti,15.99
-FRS_Male_Football_20251015,197,Tonga,11.49
+FRS_Male_Football_20251015,196,Djibouti,847.89
+FRS_Male_Football_20251015,197,Tonga,835.64
 FRS_Male_Football_20251015,198,Timor-Leste,835.55
 FRS_Male_Football_20251015,199,Pakistan,833.16
-FRS_Male_Football_20251015,200,Somalia,8.21
+FRS_Male_Football_20251015,200,Somalia,827.07
 FRS_Male_Football_20251015,201,Guam,823.08
 FRS_Male_Football_20251015,202,Gibraltar,818.03
-FRS_Male_Football_20251015,203,Seychelles,6.94
-FRS_Male_Football_20251015,204,Turks and Caicos Islands,5.95
+FRS_Male_Football_20251015,203,Seychelles,805.33
+FRS_Male_Football_20251015,204,Turks and Caicos Islands,803.98
 FRS_Male_Football_20251015,205,Liechtenstein,799.80
-FRS_Male_Football_20251015,206,Bahamas,4.43
-FRS_Male_Football_20251015,207,US Virgin Islands,2.84
+FRS_Male_Football_20251015,206,Bahamas,796.60
+FRS_Male_Football_20251015,207,US Virgin Islands,776.60
 FRS_Male_Football_20251015,208,British Virgin Islands,776.54
-FRS_Male_Football_20251015,209,Anguilla,4.88
+FRS_Male_Football_20251015,209,Anguilla,759.78
 FRS_Male_Football_20251015,210,San Marino,726.03
-FRS_Male_Football_20251015,-,Eritrea (unranked),15.39
-FRS_Male_Football_20251119,1,Spain,1877.18
-FRS_Male_Football_20251119,2,Argentina,1873.33
-FRS_Male_Football_20251119,3,France,1870.00
-FRS_Male_Football_20251119,4,England,1834.12
-FRS_Male_Football_20251119,5,Brazil,1760.46
-FRS_Male_Football_20251119,6,Portugal,1760.38
-FRS_Male_Football_20251119,7,Netherlands,1756.27
-FRS_Male_Football_20251119,8,Belgium,1730.71
-FRS_Male_Football_20251119,9,Germany,1724.15
+FRS_Male_Football_20251015,-,Eritrea (unranked), 0
 FRS_Male_Football_20251119,10,Croatia,1716.88
 FRS_Male_Football_20251119,11,Morocco,1716.34
 FRS_Male_Football_20251119,12,Italy,1702.06
 FRS_Male_Football_20251119,13,Colombia,1701.30
 FRS_Male_Football_20251119,14,USA,1681.88
 FRS_Male_Football_20251119,15,Mexico,1675.75
-FRS_Male_Football_20251119,16,Uruguay,1.05
+FRS_Male_Football_20251119,16,Uruguay,1672.62
 FRS_Male_Football_20251119,17,Switzerland,1654.69
 FRS_Male_Football_20251119,18,Japan,1650.12
 FRS_Male_Football_20251119,19,Senegal,1648.07
@@ -1542,7 +1492,7 @@ FRS_Male_Football_20251119,53,Mali,1455.03
 FRS_Male_Football_20251119,54,Qatar,1454.96
 FRS_Male_Football_20251119,55,Slovenia,1447.31
 FRS_Male_Football_20251119,56,Congo DR,1444.16
-FRS_Male_Football_20251119,57,Cameroon,2.98
+FRS_Male_Football_20251119,57,Cameroon,1440.43
 FRS_Male_Football_20251119,58,Iraq,1436.94
 FRS_Male_Football_20251119,59,Republic of Ireland,1436.04
 FRS_Male_Football_20251119,60,Saudi Arabia,1429.48
@@ -1553,7 +1503,7 @@ FRS_Male_Football_20251119,64,Jordan,1388.93
 FRS_Male_Football_20251119,65,Honduras,1379.54
 FRS_Male_Football_20251119,66,North Macedonia,1378.57
 FRS_Male_Football_20251119,67,Cabo Verde,1370.49
-FRS_Male_Football_20251119,68,United Arab Emirates,0.28
+FRS_Male_Football_20251119,68,United Arab Emirates,1370.47
 FRS_Male_Football_20251119,69,Northern Ireland,1366.02
 FRS_Male_Football_20251119,70,Jamaica,1362.46
 FRS_Male_Football_20251119,71,Bosnia and Herzegovina,1362.37
@@ -1563,26 +1513,26 @@ FRS_Male_Football_20251119,74,Iceland,1344.72
 FRS_Male_Football_20251119,75,Finland,1341.81
 FRS_Male_Football_20251119,76,Bolivia,1329.56
 FRS_Male_Football_20251119,77,Israel,1328.14
-FRS_Male_Football_20251119,78,Gabon,0.48
+FRS_Male_Football_20251119,78,Gabon,1321.25
 FRS_Male_Football_20251119,79,Oman,1313.46
 FRS_Male_Football_20251119,80,Kosovo,1308.84
 FRS_Male_Football_20251119,81,Guinea,1307.05
 FRS_Male_Football_20251119,82,Curaçao,1302.70
 FRS_Male_Football_20251119,83,Montenegro,1297.09
 FRS_Male_Football_20251119,84,Haiti,1294.49
-FRS_Male_Football_20251119,85,Uganda,9.59
+FRS_Male_Football_20251119,85,Uganda,1288.01
 FRS_Male_Football_20251119,86,Syria,1282.62
 FRS_Male_Football_20251119,87,New Zealand,1279.25
 FRS_Male_Football_20251119,88,Bulgaria,1272.19
 FRS_Male_Football_20251119,89,Angola,1271.54
 FRS_Male_Football_20251119,90,Bahrain,1258.53
-FRS_Male_Football_20251119,91,Zambia,0.86
+FRS_Male_Football_20251119,91,Zambia,1258.40
 FRS_Male_Football_20251119,92,Benin,1255.72
 FRS_Male_Football_20251119,93,China PR,1249.06
 FRS_Male_Football_20251119,94,Guatemala,1245.77
 FRS_Male_Football_20251119,95,Palestine,1244.73
 FRS_Male_Football_20251119,96,Thailand,1243.27
-FRS_Male_Football_20251119,97,Equatorial Guinea,0.08
+FRS_Male_Football_20251119,97,Equatorial Guinea,1229.09
 FRS_Male_Football_20251119,98,Trinidad and Tobago,1227.32
 FRS_Male_Football_20251119,99,Belarus,1227.09
 FRS_Male_Football_20251119,100,El Salvador,1226.65
@@ -1592,23 +1542,23 @@ FRS_Male_Football_20251119,103,Luxembourg,1218.91
 FRS_Male_Football_20251119,104,Kyrgyz Republic,1201.22
 FRS_Male_Football_20251119,105,Madagascar,1198.87
 FRS_Male_Football_20251119,106,Armenia,1196.08
-FRS_Male_Football_20251119,107,Vietnam,9.67
+FRS_Male_Football_20251119,107,Vietnam,1189.51
 FRS_Male_Football_20251119,108,Lebanon,1187.96
-FRS_Male_Football_20251119,109,Comoros,5.15
+FRS_Male_Football_20251119,109,Comoros,1186.41
 FRS_Male_Football_20251119,110,Niger,1185.09
-FRS_Male_Football_20251119,111,Libya,0.99
-FRS_Male_Football_20251119,112,Tanzania,2.28
+FRS_Male_Football_20251119,111,Libya,1183.06
+FRS_Male_Football_20251119,112,Tanzania,1181.22
 FRS_Male_Football_20251119,113,Kenya,1179.54
 FRS_Male_Football_20251119,114,Kazakhstan,1173.00
 FRS_Male_Football_20251119,115,Mauritania,1171.35
 FRS_Male_Football_20251119,116,The Gambia,1161.55
-FRS_Male_Football_20251119,117,Sudan,0.00
-FRS_Male_Football_20251119,118,Namibia,0.43
-FRS_Male_Football_20251119,119,Korea DPR,3.58
+FRS_Male_Football_20251119,117,Sudan,1154.44
+FRS_Male_Football_20251119,118,Namibia,1153.22
+FRS_Male_Football_20251119,119,Korea DPR,1151.05
 FRS_Male_Football_20251119,120,Sierra Leone,1149.10
-FRS_Male_Football_20251119,121,Malaysia,9.67
+FRS_Male_Football_20251119,121,Malaysia,1145.89
 FRS_Male_Football_20251119,122,Indonesia,1144.73
-FRS_Male_Football_20251119,123,Suriname,8.11
+FRS_Male_Football_20251119,123,Suriname,1140.54
 FRS_Male_Football_20251119,124,Togo,1140.35
 FRS_Male_Football_20251119,125,Faroe Islands,1135.42
 FRS_Male_Football_20251119,126,Malawi,1133.75
@@ -1616,91 +1566,87 @@ FRS_Male_Football_20251119,127,Azerbaijan,1132.97
 FRS_Male_Football_20251119,128,Cyprus,1128.50
 FRS_Male_Football_20251119,129,Zimbabwe,1123.69
 FRS_Male_Football_20251119,130,Estonia,1123.11
-FRS_Male_Football_20251119,131,Rwanda,5.04
+FRS_Male_Football_20251119,131,Rwanda,1117.78
 FRS_Male_Football_20251119,132,Nicaragua,1116.86
-FRS_Male_Football_20251119,133,Guinea-Bissau,2.66
-FRS_Male_Football_20251119,134,Congo,2.28
+FRS_Male_Football_20251119,133,Guinea-Bissau,1108.09
+FRS_Male_Football_20251119,134,Congo,1105.96
 FRS_Male_Football_20251119,135,Kuwait,1105.10
 FRS_Male_Football_20251119,136,Philippines,1090.95
-FRS_Male_Football_20251119,137,Turkmenistan,8.87
-FRS_Male_Football_20251119,138,Botswana,5.72
+FRS_Male_Football_20251119,137,Turkmenistan,1087.52
+FRS_Male_Football_20251119,138,Botswana,1084.56
 FRS_Male_Football_20251119,139,Central African Republic,1083.57
 FRS_Male_Football_20251119,140,Latvia,1082.68
 FRS_Male_Football_20251119,141,Liberia,1081.46
 FRS_Male_Football_20251119,142,India,1079.52
 FRS_Male_Football_20251119,143,Dominican Republic,1077.49
 FRS_Male_Football_20251119,144,Lesotho,1065.97
-FRS_Male_Football_20251119,145,Burundi,8.70
+FRS_Male_Football_20251119,145,Burundi,1060.22
 FRS_Male_Football_20251119,146,Lithuania,1056.34
 FRS_Male_Football_20251119,147,Ethiopia,1055.36
 FRS_Male_Football_20251119,148,Singapore,1050.35
 FRS_Male_Football_20251119,149,Yemen,1049.49
-FRS_Male_Football_20251119,150,New Caledonia,5.67
-FRS_Male_Football_20251119,151,Guyana,3.73
-FRS_Male_Football_20251119,152,Solomon Islands,5.05
+FRS_Male_Football_20251119,150,New Caledonia,1042.62
+FRS_Male_Football_20251119,151,Guyana,1041.90
+FRS_Male_Football_20251119,152,Solomon Islands,1039.86
 FRS_Male_Football_20251119,153,"Hong Kong, China",1038.14
-FRS_Male_Football_20251119,154,St Kitts and Nevis,5.05
+FRS_Male_Football_20251119,154,St Kitts and Nevis,1035.25
 FRS_Male_Football_20251119,155,Fiji,1029.70
 FRS_Male_Football_20251119,156,Puerto Rico,1020.07
-FRS_Male_Football_20251119,157,Tahiti,12.43
+FRS_Male_Football_20251119,157,Tahiti,1019.04
 FRS_Male_Football_20251119,158,Moldova,1012.64
-FRS_Male_Football_20251119,159,Eswatini,15.39
+FRS_Male_Football_20251119,159,Eswatini,1010.52
 FRS_Male_Football_20251119,160,Vanuatu,997.01
 FRS_Male_Football_20251119,161,Malta,996.59
 FRS_Male_Football_20251119,162,Afghanistan,991.19
 FRS_Male_Football_20251119,163,Myanmar,990.81
 FRS_Male_Football_20251119,164,Grenada,989.59
-FRS_Male_Football_20251119,165,Antigua and Barbuda,4.56
-FRS_Male_Football_20251119,166,Cuba,0.93
-FRS_Male_Football_20251119,167,St Lucia,3.58
-FRS_Male_Football_20251119,168,South Sudan,15.99
+FRS_Male_Football_20251119,165,Antigua and Barbuda,986.58
+FRS_Male_Football_20251119,166,Cuba,980.49
+FRS_Male_Football_20251119,167,St Lucia,980.28
+FRS_Male_Football_20251119,168,South Sudan,977.50
 FRS_Male_Football_20251119,169,Bermuda,976.87
-FRS_Male_Football_20251119,170,Papua New Guinea,5.73
-FRS_Male_Football_20251119,171,St Vincent and the Grenadines,4.53
+FRS_Male_Football_20251119,170,Papua New Guinea,974.90
+FRS_Male_Football_20251119,171,St Vincent and the Grenadines,963.74
 FRS_Male_Football_20251119,172,Andorra,949.44
 FRS_Male_Football_20251119,173,Maldives,945.02
-FRS_Male_Football_20251119,174,Chinese Taipei,14.42
-FRS_Male_Football_20251119,175,Montserrat,10.12
-FRS_Male_Football_20251119,176,Mauritius,1.96
-FRS_Male_Football_20251119,177,Chad,8.70
-FRS_Male_Football_20251119,178,Barbados,4.53
+FRS_Male_Football_20251119,174,Chinese Taipei,938.21
+FRS_Male_Football_20251119,175,Montserrat,916.75
+FRS_Male_Football_20251119,176,Mauritius,915.51
+FRS_Male_Football_20251119,177,Chad,914.65
+FRS_Male_Football_20251119,178,Barbados,914.42
 FRS_Male_Football_20251119,179,Cambodia,911.54
 FRS_Male_Football_20251119,180,Bangladesh,911.10
-FRS_Male_Football_20251119,181,Belize,3.73
-FRS_Male_Football_20251119,182,Nepal,13.87
-FRS_Male_Football_20251119,183,Dominica,3.68
-FRS_Male_Football_20251119,184,American Samoa,5.55
+FRS_Male_Football_20251119,181,Belize,910.74
+FRS_Male_Football_20251119,182,Nepal,902.52
+FRS_Male_Football_20251119,183,Dominica,901.37
+FRS_Male_Football_20251119,184,American Samoa,883.17
 FRS_Male_Football_20251119,185,Mongolia,879.75
-FRS_Male_Football_20251119,186,Cook Islands,5.05
-FRS_Male_Football_20251119,187,Samoa,4.66
+FRS_Male_Football_20251119,186,Cook Islands,877.53
+FRS_Male_Football_20251119,187,Samoa,876.41
 FRS_Male_Football_20251119,188,Brunei Darussalam,875.78
-FRS_Male_Football_20251119,189,São Tomé and Príncipe,7.92
-FRS_Male_Football_20251119,190,Laos,13.87
+FRS_Male_Football_20251119,189,São Tomé and Príncipe,871.63
+FRS_Male_Football_20251119,190,Laos,871.16
 FRS_Male_Football_20251119,191,Aruba,867.94
 FRS_Male_Football_20251119,192,Bhutan,867.86
-FRS_Male_Football_20251119,193,Macau,2.28
+FRS_Male_Football_20251119,193,Macau,865.29
 FRS_Male_Football_20251119,194,Sri Lanka,857.40
 FRS_Male_Football_20251119,195,Cayman Islands,851.74
-FRS_Male_Football_20251119,196,Djibouti,15.99
-FRS_Male_Football_20251119,197,Tonga,11.49
+FRS_Male_Football_20251119,196,Djibouti,847.03
+FRS_Male_Football_20251119,197,Tonga,835.64
 FRS_Male_Football_20251119,198,Timor-Leste,835.55
 FRS_Male_Football_20251119,199,Pakistan,833.16
-FRS_Male_Football_20251119,200,Somalia,8.21
+FRS_Male_Football_20251119,200,Somalia,828.90
 FRS_Male_Football_20251119,201,Guam,823.08
 FRS_Male_Football_20251119,202,Gibraltar,818.03
-FRS_Male_Football_20251119,203,Seychelles,6.94
-FRS_Male_Football_20251119,204,Turks and Caicos Islands,5.95
+FRS_Male_Football_20251119,203,Seychelles,805.33
+FRS_Male_Football_20251119,204,Turks and Caicos Islands,803.98
 FRS_Male_Football_20251119,205,Liechtenstein,799.80
-FRS_Male_Football_20251119,206,Bahamas,4.43
-FRS_Male_Football_20251119,207,US Virgin Islands,2.84
+FRS_Male_Football_20251119,206,Bahamas,796.60
+FRS_Male_Football_20251119,207,US Virgin Islands,776.60
 FRS_Male_Football_20251119,208,British Virgin Islands,776.54
-FRS_Male_Football_20251119,209,Anguilla,4.88
+FRS_Male_Football_20251119,209,Anguilla,759.78
 FRS_Male_Football_20251119,210,San Marino,726.03
-FRS_Male_Football_20251119,-,Eritrea (unranked),15.39
-FRS_Male_Football_20251219,1,Spain,1877.18
-FRS_Male_Football_20251219,2,Argentina,1873.33
-FRS_Male_Football_20251219,3,France,1870.00
-FRS_Male_Football_20251219,4,England,1834.12
+FRS_Male_Football_20251119,-,Eritrea (unranked), 0
 FRS_Male_Football_20251219,5,Brazil,1760.46
 FRS_Male_Football_20251219,6,Portugal,1760.38
 FRS_Male_Football_20251219,7,Netherlands,1756.27
@@ -1713,7 +1659,7 @@ FRS_Male_Football_20251219,13,Italy,1702.06
 FRS_Male_Football_20251219,14,Colombia,1701.30
 FRS_Male_Football_20251219,15,USA,1681.88
 FRS_Male_Football_20251219,16,Mexico,1675.75
-FRS_Male_Football_20251219,17,Uruguay,1.05
+FRS_Male_Football_20251219,17,Uruguay,1672.62
 FRS_Male_Football_20251219,18,Switzerland,1654.69
 FRS_Male_Football_20251219,19,Japan,1650.12
 FRS_Male_Football_20251219,20,IR Iran,1617.02
@@ -1741,7 +1687,7 @@ FRS_Male_Football_20251219,41,Hungary,1496.29
 FRS_Male_Football_20251219,42,Sweden,1487.13
 FRS_Male_Football_20251219,43,Czechia,1487.00
 FRS_Male_Football_20251219,44,Slovakia,1485.65
-FRS_Male_Football_20251219,45,Cameroon,2.98
+FRS_Male_Football_20251219,45,Cameroon,1482.39
 FRS_Male_Football_20251219,46,Greece,1480.38
 FRS_Male_Football_20251219,47,Tunisia,1479.04
 FRS_Male_Football_20251219,48,Congo DR,1468.22
@@ -1764,7 +1710,7 @@ FRS_Male_Football_20251219,64,Jordan,1388.93
 FRS_Male_Football_20251219,65,Honduras,1379.54
 FRS_Male_Football_20251219,66,North Macedonia,1378.57
 FRS_Male_Football_20251219,67,Cabo Verde,1370.49
-FRS_Male_Football_20251219,68,United Arab Emirates,0.28
+FRS_Male_Football_20251219,68,United Arab Emirates,1370.47
 FRS_Male_Football_20251219,69,Northern Ireland,1366.02
 FRS_Male_Football_20251219,70,Jamaica,1362.46
 FRS_Male_Football_20251219,71,Bosnia and Herzegovina,1362.37
@@ -1782,12 +1728,12 @@ FRS_Male_Football_20251219,82,Montenegro,1297.09
 FRS_Male_Football_20251219,83,Haiti,1294.49
 FRS_Male_Football_20251219,84,Syria,1282.62
 FRS_Male_Football_20251219,85,New Zealand,1279.25
-FRS_Male_Football_20251219,86,Gabon,0.48
+FRS_Male_Football_20251219,86,Gabon,1276.28
 FRS_Male_Football_20251219,87,Bulgaria,1272.19
-FRS_Male_Football_20251219,88,Uganda,9.59
+FRS_Male_Football_20251219,88,Uganda,1264.09
 FRS_Male_Football_20251219,89,Angola,1263.10
 FRS_Male_Football_20251219,90,Bahrain,1258.53
-FRS_Male_Football_20251219,91,Zambia,0.86
+FRS_Male_Football_20251219,91,Zambia,1256.68
 FRS_Male_Football_20251219,92,Benin,1250.05
 FRS_Male_Football_20251219,93,China PR,1249.06
 FRS_Male_Football_20251219,94,Guatemala,1245.77
@@ -1802,122 +1748,112 @@ FRS_Male_Football_20251219,102,Luxembourg,1218.91
 FRS_Male_Football_20251219,103,Kyrgyz Republic,1201.22
 FRS_Male_Football_20251219,104,Madagascar,1198.87
 FRS_Male_Football_20251219,105,Armenia,1196.08
-FRS_Male_Football_20251219,106,Comoros,5.15
-FRS_Male_Football_20251219,107,Equatorial Guinea,0.08
-FRS_Male_Football_20251219,108,Vietnam,9.67
+FRS_Male_Football_20251219,106,Comoros,1193.49
+FRS_Male_Football_20251219,107,Equatorial Guinea,1190.01
+FRS_Male_Football_20251219,108,Vietnam,1189.51
 FRS_Male_Football_20251219,109,Lebanon,1187.96
-FRS_Male_Football_20251219,110,Tanzania,2.28
+FRS_Male_Football_20251219,110,Tanzania,1186.14
 FRS_Male_Football_20251219,111,Niger,1185.09
-FRS_Male_Football_20251219,112,Libya,0.99
+FRS_Male_Football_20251219,112,Libya,1183.06
 FRS_Male_Football_20251219,113,Kenya,1179.54
 FRS_Male_Football_20251219,114,Kazakhstan,1173.00
 FRS_Male_Football_20251219,115,Mauritania,1171.35
 FRS_Male_Football_20251219,116,The Gambia,1161.55
-FRS_Male_Football_20251219,117,Sudan,0.00
-FRS_Male_Football_20251219,118,Namibia,0.43
-FRS_Male_Football_20251219,119,Korea DPR,3.58
+FRS_Male_Football_20251219,117,Sudan,1157.22
+FRS_Male_Football_20251219,118,Namibia,1153.22
+FRS_Male_Football_20251219,119,Korea DPR,1151.05
 FRS_Male_Football_20251219,120,Sierra Leone,1149.10
-FRS_Male_Football_20251219,121,Malaysia,9.67
+FRS_Male_Football_20251219,121,Malaysia,1145.89
 FRS_Male_Football_20251219,122,Indonesia,1144.73
-FRS_Male_Football_20251219,123,Suriname,8.11
+FRS_Male_Football_20251219,123,Suriname,1140.54
 FRS_Male_Football_20251219,124,Togo,1140.35
 FRS_Male_Football_20251219,125,Faroe Islands,1135.42
 FRS_Male_Football_20251219,126,Malawi,1133.75
 FRS_Male_Football_20251219,127,Azerbaijan,1132.97
 FRS_Male_Football_20251219,128,Cyprus,1128.50
 FRS_Male_Football_20251219,129,Estonia,1123.11
-FRS_Male_Football_20251219,130,Rwanda,5.04
+FRS_Male_Football_20251219,130,Rwanda,1117.78
 FRS_Male_Football_20251219,131,Nicaragua,1116.86
 FRS_Male_Football_20251219,132,Zimbabwe,1113.61
-FRS_Male_Football_20251219,133,Guinea-Bissau,2.66
-FRS_Male_Football_20251219,134,Congo,2.28
+FRS_Male_Football_20251219,133,Guinea-Bissau,1108.09
+FRS_Male_Football_20251219,134,Congo,1105.96
 FRS_Male_Football_20251219,135,Kuwait,1105.10
 FRS_Male_Football_20251219,136,Philippines,1090.95
-FRS_Male_Football_20251219,137,Turkmenistan,8.87
+FRS_Male_Football_20251219,137,Turkmenistan,1087.52
 FRS_Male_Football_20251219,138,Central African Republic,1083.57
 FRS_Male_Football_20251219,139,Latvia,1082.68
 FRS_Male_Football_20251219,140,Liberia,1081.46
 FRS_Male_Football_20251219,141,India,1079.52
 FRS_Male_Football_20251219,142,Dominican Republic,1077.49
 FRS_Male_Football_20251219,143,Lesotho,1065.97
-FRS_Male_Football_20251219,144,Botswana,5.72
-FRS_Male_Football_20251219,145,Burundi,8.70
+FRS_Male_Football_20251219,144,Botswana,1062.42
+FRS_Male_Football_20251219,145,Burundi,1060.22
 FRS_Male_Football_20251219,146,Lithuania,1056.34
 FRS_Male_Football_20251219,147,Ethiopia,1055.36
 FRS_Male_Football_20251219,148,Singapore,1050.35
 FRS_Male_Football_20251219,149,Yemen,1049.49
-FRS_Male_Football_20251219,150,New Caledonia,5.67
-FRS_Male_Football_20251219,151,Guyana,3.73
-FRS_Male_Football_20251219,152,Solomon Islands,5.05
+FRS_Male_Football_20251219,150,New Caledonia,1042.62
+FRS_Male_Football_20251219,151,Guyana,1041.90
+FRS_Male_Football_20251219,152,Solomon Islands,1039.86
 FRS_Male_Football_20251219,153,"Hong Kong, China",1038.14
-FRS_Male_Football_20251219,154,St Kitts and Nevis,5.05
+FRS_Male_Football_20251219,154,St Kitts and Nevis,1035.25
 FRS_Male_Football_20251219,155,Fiji,1029.70
 FRS_Male_Football_20251219,156,Puerto Rico,1020.07
-FRS_Male_Football_20251219,157,Tahiti,12.43
+FRS_Male_Football_20251219,157,Tahiti,1019.04
 FRS_Male_Football_20251219,158,Moldova,1012.64
-FRS_Male_Football_20251219,159,Eswatini,15.39
+FRS_Male_Football_20251219,159,Eswatini,1010.52
 FRS_Male_Football_20251219,160,Vanuatu,997.01
 FRS_Male_Football_20251219,161,Malta,996.59
 FRS_Male_Football_20251219,162,Afghanistan,991.19
 FRS_Male_Football_20251219,163,Myanmar,990.81
 FRS_Male_Football_20251219,164,Grenada,989.59
-FRS_Male_Football_20251219,165,Antigua and Barbuda,4.56
-FRS_Male_Football_20251219,166,Cuba,0.93
-FRS_Male_Football_20251219,167,St Lucia,3.58
-FRS_Male_Football_20251219,168,South Sudan,15.99
+FRS_Male_Football_20251219,165,Antigua and Barbuda,986.58
+FRS_Male_Football_20251219,166,Cuba,980.49
+FRS_Male_Football_20251219,167,St Lucia,980.28
+FRS_Male_Football_20251219,168,South Sudan,977.50
 FRS_Male_Football_20251219,169,Bermuda,976.87
-FRS_Male_Football_20251219,170,Papua New Guinea,5.73
-FRS_Male_Football_20251219,171,St Vincent and the Grenadines,4.53
+FRS_Male_Football_20251219,170,Papua New Guinea,974.90
+FRS_Male_Football_20251219,171,St Vincent and the Grenadines,963.74
 FRS_Male_Football_20251219,172,Andorra,949.44
 FRS_Male_Football_20251219,173,Maldives,945.02
-FRS_Male_Football_20251219,174,Chinese Taipei,14.42
-FRS_Male_Football_20251219,175,Montserrat,10.12
-FRS_Male_Football_20251219,176,Mauritius,1.96
-FRS_Male_Football_20251219,177,Chad,8.70
-FRS_Male_Football_20251219,178,Barbados,4.53
+FRS_Male_Football_20251219,174,Chinese Taipei,938.21
+FRS_Male_Football_20251219,175,Montserrat,916.75
+FRS_Male_Football_20251219,176,Mauritius,915.51
+FRS_Male_Football_20251219,177,Chad,914.65
+FRS_Male_Football_20251219,178,Barbados,914.42
 FRS_Male_Football_20251219,179,Cambodia,911.54
 FRS_Male_Football_20251219,180,Bangladesh,911.10
-FRS_Male_Football_20251219,181,Belize,3.73
-FRS_Male_Football_20251219,182,Nepal,13.87
-FRS_Male_Football_20251219,183,Dominica,3.68
-FRS_Male_Football_20251219,184,American Samoa,5.55
+FRS_Male_Football_20251219,181,Belize,910.74
+FRS_Male_Football_20251219,182,Nepal,902.52
+FRS_Male_Football_20251219,183,Dominica,901.37
+FRS_Male_Football_20251219,184,American Samoa,883.17
 FRS_Male_Football_20251219,185,Mongolia,879.75
-FRS_Male_Football_20251219,186,Cook Islands,5.05
-FRS_Male_Football_20251219,187,Samoa,4.66
+FRS_Male_Football_20251219,186,Cook Islands,877.53
+FRS_Male_Football_20251219,187,Samoa,876.41
 FRS_Male_Football_20251219,188,Brunei Darussalam,875.78
-FRS_Male_Football_20251219,189,São Tomé and Príncipe,7.92
-FRS_Male_Football_20251219,190,Laos,13.87
+FRS_Male_Football_20251219,189,São Tomé and Príncipe,871.63
+FRS_Male_Football_20251219,190,Laos,871.16
 FRS_Male_Football_20251219,191,Aruba,867.94
 FRS_Male_Football_20251219,192,Bhutan,867.86
-FRS_Male_Football_20251219,193,Macau,2.28
+FRS_Male_Football_20251219,193,Macau,865.29
 FRS_Male_Football_20251219,194,Sri Lanka,857.40
 FRS_Male_Football_20251219,195,Cayman Islands,851.74
-FRS_Male_Football_20251219,196,Djibouti,15.99
-FRS_Male_Football_20251219,197,Tonga,11.49
+FRS_Male_Football_20251219,196,Djibouti,847.03
+FRS_Male_Football_20251219,197,Tonga,835.64
 FRS_Male_Football_20251219,198,Timor-Leste,835.55
 FRS_Male_Football_20251219,199,Pakistan,833.16
-FRS_Male_Football_20251219,200,Somalia,8.21
+FRS_Male_Football_20251219,200,Somalia,828.90
 FRS_Male_Football_20251219,201,Guam,823.08
 FRS_Male_Football_20251219,202,Gibraltar,818.03
-FRS_Male_Football_20251219,203,Seychelles,6.94
-FRS_Male_Football_20251219,204,Turks and Caicos Islands,5.95
+FRS_Male_Football_20251219,203,Seychelles,805.33
+FRS_Male_Football_20251219,204,Turks and Caicos Islands,803.98
 FRS_Male_Football_20251219,205,Liechtenstein,799.80
-FRS_Male_Football_20251219,206,Bahamas,4.43
-FRS_Male_Football_20251219,207,US Virgin Islands,2.84
+FRS_Male_Football_20251219,206,Bahamas,796.60
+FRS_Male_Football_20251219,207,US Virgin Islands,776.60
 FRS_Male_Football_20251219,208,British Virgin Islands,776.54
-FRS_Male_Football_20251219,209,Anguilla,4.88
+FRS_Male_Football_20251219,209,Anguilla,759.78
 FRS_Male_Football_20251219,210,San Marino,726.03
-FRS_Male_Football_20251219,-,Eritrea (unranked),15.39
-FRS_Male_Football_20260119,1,France,1877.32
-FRS_Male_Football_20260119,2,Spain,1876.40
-FRS_Male_Football_20260119,3,Argentina,1874.81
-FRS_Male_Football_20260119,4,England,1825.97
-FRS_Male_Football_20260119,5,Portugal,1763.83
-FRS_Male_Football_20260119,6,Brazil,1761.16
-FRS_Male_Football_20260119,7,Netherlands,1757.87
-FRS_Male_Football_20260119,8,Morocco,1755.87
-FRS_Male_Football_20260119,9,Belgium,1734.71
-FRS_Male_Football_20260119,10,Germany,1730.37
+FRS_Male_Football_20251219,-,Eritrea (unranked), 0
 FRS_Male_Football_20260119,11,Croatia,1717.07
 FRS_Male_Football_20260119,12,Italy,1700.37
 FRS_Male_Football_20260119,13,Colombia,1693.09
@@ -1952,7 +1888,7 @@ FRS_Male_Football_20260119,41,Czechia,1501.38
 FRS_Male_Football_20260119,42,Hungary,1500.58
 FRS_Male_Football_20260119,43,Scotland,1498.35
 FRS_Male_Football_20260119,44,Tunisia,1483.05
-FRS_Male_Football_20260119,45,Cameroon,2.98
+FRS_Male_Football_20260119,45,Cameroon,1481.24
 FRS_Male_Football_20260119,46,Congo DR,1478.35
 FRS_Male_Football_20260119,47,Greece,1475.82
 FRS_Male_Football_20260119,48,Slovakia,1473.94
@@ -1999,43 +1935,43 @@ FRS_Male_Football_20260119,88,Uganda,1264.09
 FRS_Male_Football_20260119,89,Angola,1263.10
 FRS_Male_Football_20260119,90,Benin,1258.98
 FRS_Male_Football_20260119,91,Bahrain,1258.53
-FRS_Male_Football_20260119,92,Zambia,0.86
+FRS_Male_Football_20260119,92,Zambia,1255.82
 FRS_Male_Football_20260119,93,Thailand,1252.14
 FRS_Male_Football_20260119,94,China PR,1251.60
 FRS_Male_Football_20260119,95,Palestine,1244.73
 FRS_Male_Football_20260119,96,Guatemala,1243.47
 FRS_Male_Football_20260119,97,Belarus,1235.82
 FRS_Male_Football_20260119,98,Luxembourg,1227.77
-FRS_Male_Football_20260119,99,Vietnam,9.67
+FRS_Male_Football_20260119,99,Vietnam,1225.68
 FRS_Male_Football_20260119,100,El Salvador,1225.26
 FRS_Male_Football_20260119,101,Mozambique,1224.31
 FRS_Male_Football_20260119,102,Trinidad and Tobago,1222.94
 FRS_Male_Football_20260119,103,Tajikistan,1221.78
 FRS_Male_Football_20260119,104,Madagascar,1203.76
-FRS_Male_Football_20260119,105,Equatorial Guinea,0.08
+FRS_Male_Football_20260119,105,Equatorial Guinea,1195.20
 FRS_Male_Football_20260119,106,Armenia,1191.42
 FRS_Male_Football_20260119,107,Kyrgyz Republic,1191.14
 FRS_Male_Football_20260119,108,Lebanon,1187.96
-FRS_Male_Football_20260119,109,Comoros,5.15
+FRS_Male_Football_20260119,109,Comoros,1187.91
 FRS_Male_Football_20260119,110,Kazakhstan,1182.96
 FRS_Male_Football_20260119,111,Kenya,1182.23
 FRS_Male_Football_20260119,112,Libya,1182.08
-FRS_Male_Football_20260119,113,Tanzania,2.28
+FRS_Male_Football_20260119,113,Tanzania,1180.27
 FRS_Male_Football_20260119,114,Niger,1179.66
 FRS_Male_Football_20260119,115,Mauritania,1170.72
 FRS_Male_Football_20260119,116,The Gambia,1160.38
-FRS_Male_Football_20260119,117,Sudan,0.00
-FRS_Male_Football_20260119,118,Korea DPR,3.58
+FRS_Male_Football_20260119,117,Sudan,1157.22
+FRS_Male_Football_20260119,118,Korea DPR,1151.05
 FRS_Male_Football_20260119,119,Sierra Leone,1148.98
-FRS_Male_Football_20260119,120,Namibia,0.43
+FRS_Male_Football_20260119,120,Namibia,1148.84
 FRS_Male_Football_20260119,121,Togo,1147.31
 FRS_Male_Football_20260119,122,Indonesia,1144.88
 FRS_Male_Football_20260119,123,Faroe Islands,1137.14
 FRS_Male_Football_20260119,124,Azerbaijan,1136.67
-FRS_Male_Football_20260119,125,Suriname,8.11
+FRS_Male_Football_20260119,125,Suriname,1132.43
 FRS_Male_Football_20260119,126,Cyprus,1128.33
 FRS_Male_Football_20260119,127,Malawi,1128.03
-FRS_Male_Football_20260119,128,Rwanda,5.04
+FRS_Male_Football_20260119,128,Rwanda,1126.62
 FRS_Male_Football_20260119,129,Estonia,1121.10
 FRS_Male_Football_20260119,130,Zimbabwe,1118.12
 FRS_Male_Football_20260119,131,Nicaragua,1115.13
@@ -2048,8 +1984,8 @@ FRS_Male_Football_20260119,137,Latvia,1090.57
 FRS_Male_Football_20260119,138,Malaysia,1086.22
 FRS_Male_Football_20260119,139,Central African Republic,1083.57
 FRS_Male_Football_20260119,140,Liberia,1079.02
-FRS_Male_Football_20260119,141,Turkmenistan,8.87
-FRS_Male_Football_20260119,142,Burundi,8.70
+FRS_Male_Football_20260119,141,Turkmenistan,1078.65
+FRS_Male_Football_20260119,142,Burundi,1078.01
 FRS_Male_Football_20260119,143,Dominican Republic,1077.95
 FRS_Male_Football_20260119,144,Ethiopia,1071.55
 FRS_Male_Football_20260119,145,Lesotho,1067.13
@@ -2058,9 +1994,9 @@ FRS_Male_Football_20260119,147,Singapore,1059.53
 FRS_Male_Football_20260119,148,Lithuania,1058.42
 FRS_Male_Football_20260119,149,Yemen,1049.49
 FRS_Male_Football_20260119,150,Guyana,1049.32
-FRS_Male_Football_20260119,151,New Caledonia,5.67
-FRS_Male_Football_20260119,152,St Kitts and Nevis,5.05
-FRS_Male_Football_20260119,153,Solomon Islands,5.05
+FRS_Male_Football_20260119,151,New Caledonia,1036.95
+FRS_Male_Football_20260119,152,St Kitts and Nevis,1036.33
+FRS_Male_Football_20260119,153,Solomon Islands,1031.89
 FRS_Male_Football_20260119,154,Fiji,1029.70
 FRS_Male_Football_20260119,155,"Hong Kong, China",1026.63
 FRS_Male_Football_20260119,156,Puerto Rico,1026.11
@@ -2072,27 +2008,27 @@ FRS_Male_Football_20260119,161,Malta,987.73
 FRS_Male_Football_20260119,162,Antigua and Barbuda,986.58
 FRS_Male_Football_20260119,163,Grenada,982.57
 FRS_Male_Football_20260119,164,Cuba,981.42
-FRS_Male_Football_20260119,165,Eswatini,15.39
+FRS_Male_Football_20260119,165,Eswatini,979.01
 FRS_Male_Football_20260119,166,Bermuda,976.87
-FRS_Male_Football_20260119,167,St Lucia,3.58
+FRS_Male_Football_20260119,167,St Lucia,976.71
 FRS_Male_Football_20260119,168,Papua New Guinea,974.90
 FRS_Male_Football_20260119,169,Afghanistan,972.75
-FRS_Male_Football_20260119,170,South Sudan,15.99
+FRS_Male_Football_20260119,170,South Sudan,970.94
 FRS_Male_Football_20260119,171,St Vincent and the Grenadines,968.27
 FRS_Male_Football_20260119,172,Maldives,954.93
 FRS_Male_Football_20260119,173,Andorra,945.34
 FRS_Male_Football_20260119,174,Chinese Taipei,923.78
-FRS_Male_Football_20260119,175,Montserrat,10.12
+FRS_Male_Football_20260119,175,Montserrat,916.75
 FRS_Male_Football_20260119,176,Nepal,914.54
 FRS_Male_Football_20260119,177,Cambodia,911.54
-FRS_Male_Football_20260119,178,Mauritius,1.96
-FRS_Male_Football_20260119,179,Barbados,4.53
+FRS_Male_Football_20260119,178,Mauritius,911.49
+FRS_Male_Football_20260119,179,Barbados,909.89
 FRS_Male_Football_20260119,180,Belize,907.00
 FRS_Male_Football_20260119,181,Bangladesh,899.53
 FRS_Male_Football_20260119,182,Dominica,897.69
 FRS_Male_Football_20260119,183,Chad,896.85
-FRS_Male_Football_20260119,184,Eritrea,15.39
-FRS_Male_Football_20260119,185,Laos,13.87
+FRS_Male_Football_20260119,184,Eritrea,887.06
+FRS_Male_Football_20260119,185,Laos,885.03
 FRS_Male_Football_20260119,186,Bhutan,880.55
 FRS_Male_Football_20260119,187,Mongolia,879.75
 FRS_Male_Football_20260119,188,Cook Islands,877.53
@@ -2101,11 +2037,11 @@ FRS_Male_Football_20260119,190,Samoa,876.41
 FRS_Male_Football_20260119,191,Sri Lanka,871.82
 FRS_Male_Football_20260119,192,American Samoa,871.61
 FRS_Male_Football_20260119,193,Brunei Darussalam,863.09
-FRS_Male_Football_20260119,194,Macau,2.28
+FRS_Male_Football_20260119,194,Macau,858.03
 FRS_Male_Football_20260119,195,Cayman Islands,855.45
-FRS_Male_Football_20260119,196,São Tomé and Príncipe,7.92
-FRS_Male_Football_20260119,197,Djibouti,15.99
-FRS_Male_Football_20260119,198,Somalia,8.21
+FRS_Male_Football_20260119,196,São Tomé and Príncipe,855.44
+FRS_Male_Football_20260119,197,Djibouti,853.58
+FRS_Male_Football_20260119,198,Somalia,839.17
 FRS_Male_Football_20260119,199,Tonga,835.64
 FRS_Male_Football_20260119,200,Timor-Leste,825.64
 FRS_Male_Football_20260119,201,Guam,825.43
@@ -2114,186 +2050,397 @@ FRS_Male_Football_20260119,203,Gibraltar,810.14
 FRS_Male_Football_20260119,204,Seychelles,804.16
 FRS_Male_Football_20260119,205,Turks and Caicos Islands,803.98
 FRS_Male_Football_20260119,206,Liechtenstein,803.57
-FRS_Male_Football_20260119,207,Bahamas,4.43
+FRS_Male_Football_20260119,207,Bahamas,786.82
 FRS_Male_Football_20260119,208,British Virgin Islands,782.14
-FRS_Male_Football_20260119,209,US Virgin Islands,2.84
+FRS_Male_Football_20260119,209,US Virgin Islands,779.76
 FRS_Male_Football_20260119,210,Anguilla,760.25
 FRS_Male_Football_20260119,211,San Marino,726.33
-LiveRanking,1,Argentina,1.15
+id14541,1,Argentina,1883.50
+id14541,2,France,1859.85
+id14541,3,Spain,1844.33
+id14541,4,England,1807.83
+id14541,5,Brazil,1784.37
+id14541,6,Belgium,1761.27
+id14541,7,Portugal,1752.68
+id14541,8,Netherlands,1748.24
+id14541,9,Italy,1729.40
+id14541,10,Colombia,1724.37
+id14541,11,Germany,1703.59
+id14541,12,Croatia,1701.36
+id14541,13,Morocco,1681.57
+id14541,14,Uruguay,1680.36
+id14541,15,Japan,1645.09
+id14541,16,Mexico,1640.67
+id14541,17,Switzerland,1631.38
+id14541,18,USA,1630.97
+id14541,19,IR Iran,1627.58
+id14541,20,Senegal,1627.13
+id14541,21,Denmark,1617.34
+id14541,22,Korea Republic,1589.93
+id14541,23,Austria,1589.17
+id14541,24,Australia,1552.77
+id14541,25,Ukraine,1552.37
+id14541,26,Türkiye,1548.15
+id14541,27,Ecuador,1536.32
+id14541,28,Sweden,1530.41
+id14541,29,Wales,1528.96
+id14541,30,Egypt,1526.25
+id14541,31,Poland,1523.19
+id14541,32,Hungary,1519.33
+id14541,33,Serbia,1511.16
+id14541,34,Russia,1508.73
+id14541,35,Canada,1507.27
+id14541,36,Nigeria,1503.29
+id14541,37,Algeria,1496.94
+id14541,38,Peru,1494.24
+id14541,39,Panama,1493.80
+id14541,40,Côte d'Ivoire,1493.57
+id14541,41,Slovakia,1489.88
+id14541,42,Greece,1487.42
+id14541,43,Romania,1487.22
+id14541,44,Venezuela,1482.47
+id14541,45,Czechia,1480.39
+id14541,46,Qatar,1478.60
+id14541,47,Tunisia,1478.52
+id14541,48,Norway,1473.50
+id14541,49,Cameroon,1472.12
+id14541,50,Costa Rica,1465.57
+id14541,51,Scotland,1461.34
+id14541,52,Slovenia,1459.59
+id14541,53,Chile,1455.22
+id14541,54,Mali,1454.84
+id14541,55,Paraguay,1440.78
+id14541,56,Iraq,1434.40
+id14541,57,Congo DR,1431.30
+id14541,58,Uzbekistan,1429.26
+id14541,59,Saudi Arabia,1422.67
+id14541,60,South Africa,1415.98
+id14541,61,Jamaica,1405.36
+id14541,62,Burkina Faso,1399.80
+id14541,63,Republic of Ireland,1395.61
+id14541,64,Jordan,1380.75
+id14541,65,Albania,1379.29
+id14541,66,Finland,1374.58
+id14541,67,Georgia,1365.56
+id14541,68,United Arab Emirates,1361.34
+id14541,69,North Macedonia,1361.01
+id14541,70,Iceland,1353.18
+id14541,71,Northern Ireland,1345.06
+id14541,72,Cabo Verde,1340.87
+id14541,73,Ghana,1338.73
+id14541,74,Bosnia and Herzegovina,1324.43
+id14541,75,Montenegro,1323.20
+id14541,76,Bahrain,1313.80
+id14541,77,Honduras,1312.66
+id14541,78,Guinea,1312.45
+id14541,79,Bolivia,1312.36
+id14541,80,Oman,1305.99
+id14541,81,Israel,1303.65
+id14541,82,Angola,1298.75
+id14541,83,El Salvador,1297.99
+id14541,84,Bulgaria,1295.11
+id14541,85,Gabon,1294.11
+id14541,86,Haiti,1283.67
+id14541,87,Uganda,1269.79
+id14541,88,Equatorial Guinea,1266.68
+id14541,89,Luxembourg,1262.08
+id14541,90,Curaçao,1260.87
+id14541,91,New Zealand,1258.11
+id14541,92,China PR,1257.29
+id14541,93,Syria,1252.19
+id14541,94,Zambia,1251.84
+id14541,95,Benin,1250.97
+id14541,96,Thailand,1231.75
+id14541,97,Belarus,1231.10
+id14541,98,Mozambique,1229.01
+id14541,99,Armenia,1222.74
+id14541,100,Palestine,1218.43
+id14541,101,Kosovo,1218.22
+id14541,102,Trinidad and Tobago,1214.81
+id14541,103,Kyrgyz Republic,1207.08
+id14541,104,Guatemala,1201.35
+id14541,105,Tajikistan,1196.98
+id14541,106,Kenya,1195.36
+id14541,107,Kazakhstan,1186.46
+id14541,108,Comoros,1185.98
+id14541,109,Madagascar,1180.00
+id14541,110,Sudan,1176.20
+id14541,111,Korea DPR,1175.14
+id14541,112,Tanzania,1173.84
+id14541,113,Namibia,1173.81
+id14541,114,Mauritania,1168.44
+id14541,115,Lebanon,1167.49
+id14541,116,Guinea-Bissau,1166.34
+id14541,117,Zimbabwe,1162.48
+id14541,118,Azerbaijan,1161.80
+id14541,119,Vietnam,1161.11
+id14541,120,Congo,1159.42
+id14541,121,Sierra Leone,1149.81
+id14541,122,Libya,1148.70
+id14541,123,Togo,1147.91
+id14541,124,Estonia,1145.52
+id14541,125,India,1133.78
+id14541,126,Rwanda,1130.04
+id14541,127,Cyprus,1127.51
+id14541,128,The Gambia,1125.62
+id14541,129,Central African Republic,1125.26
+id14541,130,Indonesia,1118.87
+id14541,131,Niger,1114.73
+id14541,132,Nicaragua,1114.28
+id14541,133,Malaysia,1113.92
+id14541,134,Malawi,1111.16
+id14541,135,Kuwait,1106.42
+id14541,136,Suriname,1105.29
+id14541,137,Latvia,1093.82
+id14541,138,Faroe Islands,1091.52
+id14541,139,Burundi,1089.49
+id14541,140,Botswana,1088.45
+id14541,141,Lithuania,1082.36
+id14541,142,Dominican Republic,1071.88
+id14541,143,St Kitts and Nevis,1069.25
+id14541,144,Turkmenistan,1065.42
+id14541,145,Philippines,1053.09
+id14541,146,Fiji,1051.41
+id14541,147,Solomon Islands,1050.99
+id14541,148,Ethiopia,1049.28
+id14541,149,Liberia,1048.86
+id14541,150,Moldova,1040.83
+id14541,151,Afghanistan,1034.37
+id14541,152,Lesotho,1032.79
+id14541,153,Puerto Rico,1021.62
+id14541,154,Yemen,1021.24
+id14541,155,New Caledonia,1020.83
+id14541,156,Antigua and Barbuda,1020.58
+id14541,157,Vanuatu,1015.52
+id14541,158,"Hong Kong, China",1015.10
+id14541,159,Tahiti,1009.52
+id14541,160,Eswatini,1009.19
+id14541,161,Guyana,1008.68
+id14541,162,Singapore,1008.26
+id14541,163,Maldives,1003.48
+id14541,164,St Lucia,997.86
+id14541,165,Myanmar,990.98
+id14541,166,Cuba,990.18
+id14541,167,Bermuda,986.53
+id14541,168,Chinese Taipei,985.66
+id14541,169,Malta,980.50
+id14541,170,Andorra,977.96
+id14541,171,Papua New Guinea,972.32
+id14541,172,South Sudan,955.67
+id14541,173,Barbados,955.21
+id14541,174,St Vincent and the Grenadines,954.86
+id14541,175,Grenada,947.22
+id14541,176,Nepal,935.93
+id14541,177,Chad,933.39
+id14541,178,Mauritius,927.57
+id14541,179,Belize,925.02
+id14541,180,Montserrat,924.14
+id14541,181,Cambodia,921.20
+id14541,182,Bhutan,904.06
+id14541,183,Dominica,903.54
+id14541,184,Brunei Darussalam,900.75
+id14541,185,Bangladesh,896.71
+id14541,186,Samoa,890.77
+id14541,187,Laos,889.62
+id14541,188,Mongolia,883.57
+id14541,189,American Samoa,883.17
+id14541,190,São Tomé and Príncipe,878.09
+id14541,191,Cook Islands,877.53
+id14541,192,Djibouti,875.13
+id14541,193,Macau,871.52
+id14541,194,Cayman Islands,866.71
+id14541,195,Aruba,863.29
+id14541,196,Timor-Leste,850.83
+id14541,197,Gibraltar,848.32
+id14541,198,Pakistan,842.59
+id14541,199,Tonga,835.64
+id14541,200,Liechtenstein,834.15
+id14541,201,Seychelles,831.19
+id14541,202,Somalia,829.81
+id14541,203,Sri Lanka,829.39
+id14541,204,Guam,821.91
+id14541,205,Bahamas,818.58
+id14541,206,Turks and Caicos Islands,803.98
+id14541,207,British Virgin Islands,780.30
+id14541,208,US Virgin Islands,779.71
+id14541,209,Anguilla,769.31
+id14541,210,San Marino,737.04
+id14541,-,Eritrea (unranked), 0
+LiveRanking,1,Argentina,1877.27
 LiveRanking,2,Spain,1874.71
 LiveRanking,3,France,1870.70
-LiveRanking,4,England,0.97
-LiveRanking,5,Portugal,1.67
-LiveRanking,6,Brazil,3.19
-LiveRanking,7,Morocco,1.84
-LiveRanking,8,Netherlands,2.47
+LiveRanking,4,England,1828.02
+LiveRanking,5,Portugal,1767.85
+LiveRanking,6,Brazil,1765.86
+LiveRanking,7,Morocco,1755.10
+LiveRanking,8,Netherlands,1753.57
 LiveRanking,9,Belgium,1742.24
-LiveRanking,10,Germany,4.47
+LiveRanking,10,Germany,1735.77
 LiveRanking,11,Croatia,1714.87
-LiveRanking,12,Italy,2.96
-LiveRanking,13,Colombia,2.36
-LiveRanking,14,Mexico,3.35
+LiveRanking,12,Italy,1704.73
+LiveRanking,13,Mexico,13.50
+LiveRanking,14,Colombia,1698.35
 LiveRanking,15,Senegal,1684.07
 LiveRanking,16,Uruguay,1673.07
 LiveRanking,17,USA,1671.23
 LiveRanking,18,Japan,1661.58
 LiveRanking,19,Switzerland,1650.06
 LiveRanking,20,IR Iran,1619.58
-LiveRanking,21,Denmark,1.33
-LiveRanking,22,Türkiye,1605.73
-LiveRanking,23,Ecuador,1598.52
-LiveRanking,24,Austria,3.96
-LiveRanking,25,Korea Republic,1591.63
-LiveRanking,26,Nigeria,1.67
-LiveRanking,27,Australia,0.69
-LiveRanking,28,Algeria,6.78
+LiveRanking,21,Denmark,1619.47
+LiveRanking,22,Korea Republic,20.92
+LiveRanking,23,Türkiye,1605.73
+LiveRanking,24,Ecuador,1598.52
+LiveRanking,25,Austria,1597.40
+LiveRanking,26,Nigeria,1585.02
+LiveRanking,27,Australia,1579.34
+LiveRanking,28,Algeria,1571.03
 LiveRanking,29,Egypt,1562.37
 LiveRanking,30,Canada,1559.48
 LiveRanking,31,Norway,1557.44
 LiveRanking,32,Ukraine,1549.29
-LiveRanking,33,Côte d'Ivoire,7.89
-LiveRanking,34,Panama,1.44
-LiveRanking,35,Russia,2.37
+LiveRanking,33,Côte d'Ivoire,1540.87
+LiveRanking,34,Panama,1539.16
+LiveRanking,35,Russia,1529.60
 LiveRanking,36,Poland,1526.18
 LiveRanking,37,Wales,1516.95
 LiveRanking,38,Sweden,1509.79
 LiveRanking,39,Hungary,1506.39
-LiveRanking,40,Czechia,1505.74
-LiveRanking,41,Paraguay,1.85
-LiveRanking,42,Scotland,3.42
-LiveRanking,43,Serbia,1502.13
+LiveRanking,40,Paraguay,1505.35
+LiveRanking,41,Scotland,1503.34
+LiveRanking,42,Serbia,1502.13
+LiveRanking,43,Czechia,20.92
 LiveRanking,44,Cameroon,1481.24
 LiveRanking,45,Tunisia,1476.41
-LiveRanking,46,Congo DR,5.26
-LiveRanking,47,Slovakia,1.62
-LiveRanking,48,Greece,2.96
-LiveRanking,49,Venezuela,4.87
+LiveRanking,46,Congo DR,1474.43
+LiveRanking,47,Slovakia,1473.66
+LiveRanking,48,Greece,1473.19
+LiveRanking,49,Venezuela,1469.18
 LiveRanking,50,Uzbekistan,1458.73
-LiveRanking,51,Chile,5.26
+LiveRanking,51,Chile,1458.20
 LiveRanking,52,Peru,1457.69
-LiveRanking,53,Costa Rica,0.97
-LiveRanking,54,Romania,5.69
-LiveRanking,55,Mali,3.54
-LiveRanking,56,Qatar,2.07
-LiveRanking,57,Iraq,4.87
-LiveRanking,58,Republic of Ireland,1.14
-LiveRanking,59,Slovenia,2.63
-LiveRanking,60,South Africa,1428.38
-LiveRanking,61,Saudi Arabia,2.34
-LiveRanking,62,Burkina Faso,1.55
+LiveRanking,53,Costa Rica,1456.03
+LiveRanking,54,Romania,1455.89
+LiveRanking,55,Mali,1455.59
+LiveRanking,56,Qatar,1450.31
+LiveRanking,57,Iraq,1446.28
+LiveRanking,58,Republic of Ireland,1441.10
+LiveRanking,59,Slovenia,1441.09
+LiveRanking,60,Saudi Arabia,1423.88
+LiveRanking,61,South Africa,13.50
+LiveRanking,62,Burkina Faso,1406.99
 LiveRanking,63,Jordan,1387.74
-LiveRanking,64,Bosnia and Herzegovina,1.44
-LiveRanking,65,Honduras,1.30
-LiveRanking,66,Albania,6.45
+LiveRanking,64,Bosnia and Herzegovina,1387.22
+LiveRanking,65,Honduras,1378.97
+LiveRanking,66,Albania,1376.03
 LiveRanking,67,Cabo Verde,1371.11
 LiveRanking,68,United Arab Emirates,1370.47
-LiveRanking,69,North Macedonia,2.95
+LiveRanking,69,North Macedonia,1369.16
 LiveRanking,70,Northern Ireland,1365.30
 LiveRanking,71,Jamaica,1357.84
-LiveRanking,72,Georgia,4.12
-LiveRanking,73,Ghana,1.65
-LiveRanking,74,Iceland,1.15
-LiveRanking,75,Finland,3.55
+LiveRanking,72,Georgia,1355.26
+LiveRanking,73,Ghana,1346.88
+LiveRanking,74,Iceland,1342.77
+LiveRanking,75,Finland,1341.92
 LiveRanking,76,Israel,1333.90
-LiveRanking,77,Bolivia,3.42
-LiveRanking,78,Kosovo,1.95
-LiveRanking,79,Oman,6.56
-LiveRanking,80,Montenegro,1.62
+LiveRanking,77,Bolivia,1326.00
+LiveRanking,78,Kosovo,1319.12
+LiveRanking,79,Oman,1306.90
+LiveRanking,80,Montenegro,1301.98
 LiveRanking,81,Guinea,1295.60
 LiveRanking,82,Curaçao,1294.77
-LiveRanking,83,Haiti,3.52
-LiveRanking,84,Syria,5.50
-LiveRanking,85,New Zealand,1.08
+LiveRanking,83,Haiti,1293.10
+LiveRanking,84,Syria,1283.05
+LiveRanking,85,New Zealand,1275.58
 LiveRanking,86,Gabon,1272.51
 LiveRanking,87,Bulgaria,1271.68
 LiveRanking,88,Angola,1265.58
 LiveRanking,89,Uganda,1264.09
 LiveRanking,90,Zambia,1255.82
-LiveRanking,91,China PR,0.04
+LiveRanking,91,China PR,1254.81
 LiveRanking,92,Bahrain,1254.41
-LiveRanking,93,Benin,6.05
+LiveRanking,93,Benin,1252.17
 LiveRanking,94,Thailand,1250.80
 LiveRanking,95,Palestine,1243.71
-LiveRanking,96,Belarus,1.55
-LiveRanking,97,Guatemala,2.03
+LiveRanking,96,Belarus,1242.88
+LiveRanking,97,Guatemala,1238.74
 LiveRanking,98,Luxembourg,1232.82
 LiveRanking,99,Vietnam,1225.68
-LiveRanking,100,El Salvador,2.07
-LiveRanking,101,Tajikistan,1.33
+LiveRanking,100,El Salvador,1225.34
+LiveRanking,101,Tajikistan,1224.19
 LiveRanking,102,Trinidad and Tobago,1219.59
-LiveRanking,103,Mozambique,5.69
+LiveRanking,103,Mozambique,1218.62
 LiveRanking,104,Madagascar,1202.69
 LiveRanking,105,Equatorial Guinea,1195.20
-LiveRanking,106,Kyrgyz Republic,0.50
-LiveRanking,107,Armenia,1.70
+LiveRanking,106,Kyrgyz Republic,1192.16
+LiveRanking,107,Armenia,1189.63
 LiveRanking,108,Comoros,1187.91
-LiveRanking,109,Kenya,3.93
+LiveRanking,109,Kenya,1185.08
 LiveRanking,110,Libya,1182.08
-LiveRanking,111,Kazakhstan,2.26
+LiveRanking,111,Kazakhstan,1180.78
 LiveRanking,112,Tanzania,1180.27
 LiveRanking,113,Mauritania,1176.68
-LiveRanking,114,Niger,5.08
-LiveRanking,115,Lebanon,15.75
+LiveRanking,114,Niger,1175.33
+LiveRanking,115,Lebanon,1172.22
 LiveRanking,116,The Gambia,1159.64
 LiveRanking,117,Sudan,1157.22
 LiveRanking,118,Indonesia,1157.14
-LiveRanking,119,Togo,6.05
-LiveRanking,120,Korea DPR,1151.05
+LiveRanking,119,Togo,1152.76
+LiveRanking,120,DPR Korea,1151.05
 LiveRanking,121,Namibia,1148.84
 LiveRanking,122,Sierra Leone,1147.56
-LiveRanking,123,Faroe Islands,4.60
-LiveRanking,124,Cyprus,2.19
+LiveRanking,123,Faroe Islands,1136.59
+LiveRanking,124,Cyprus,1133.25
 LiveRanking,125,Suriname,1132.43
-LiveRanking,126,Azerbaijan,1.73
+LiveRanking,126,Azerbaijan,1132.00
 LiveRanking,127,Estonia,1130.64
 LiveRanking,128,Rwanda,1126.62
 LiveRanking,129,Malawi,1122.05
 LiveRanking,130,Zimbabwe,1119.78
 LiveRanking,131,Nicaragua,1114.63
 LiveRanking,132,Guinea-Bissau,1108.38
-LiveRanking,133,Kuwait,1.37
+LiveRanking,133,Kuwait,1106.47
 LiveRanking,134,Congo,1105.96
-LiveRanking,135,Philippines,4.22
+LiveRanking,135,Philippines,1100.95
 LiveRanking,136,Malaysia,1086.22
-LiveRanking,137,Latvia,4.60
-LiveRanking,138,India,1.33
-LiveRanking,139,Central African Republic,3.36
+LiveRanking,137,Latvia,1085.66
+LiveRanking,138,India,1084.93
+LiveRanking,139,Central African Republic,1080.82
 LiveRanking,140,Liberia,1080.44
 LiveRanking,141,Turkmenistan,1078.65
 LiveRanking,142,Burundi,1078.01
-LiveRanking,143,Ethiopia,0.43
-LiveRanking,144,Dominican Republic,1.46
+LiveRanking,143,Ethiopia,1077.52
+LiveRanking,144,Dominican Republic,1076.50
 LiveRanking,145,Yemen,1065.24
 LiveRanking,146,Lesotho,1064.29
 LiveRanking,147,Botswana,1063.63
-LiveRanking,148,Singapore,3.25
-LiveRanking,149,Lithuania,4.38
+LiveRanking,148,Singapore,1057.95
+LiveRanking,149,Lithuania,1056.85
 LiveRanking,150,Guyana,1049.32
 LiveRanking,151,New Caledonia,1036.95
-LiveRanking,152,St Kitts and Nevis,1036.33
+LiveRanking,152,St. Kitts and Nevis,1036.33
 LiveRanking,153,Solomon Islands,1031.89
-LiveRanking,154,Puerto Rico,1.81
-LiveRanking,155,Fiji,0.21
-LiveRanking,156,"Hong Kong, China",6.08
+LiveRanking,154,Puerto Rico,1024.30
+LiveRanking,155,Fiji,1024.17
+LiveRanking,156,Hong Kong,1024.16
 LiveRanking,157,Tahiti,1019.04
-LiveRanking,158,Myanmar,4.22
-LiveRanking,159,Moldova,1.70
-LiveRanking,160,Vanuatu,0.21
-LiveRanking,161,Malta,6.40
+LiveRanking,158,Myanmar,1010.91
+LiveRanking,159,Moldova,1008.24
+LiveRanking,160,Vanuatu,1002.53
+LiveRanking,161,Malta,992.79
 LiveRanking,162,Antigua and Barbuda,986.58
 LiveRanking,163,Grenada,981.82
 LiveRanking,164,Cuba,981.42
 LiveRanking,165,Eswatini,979.01
-LiveRanking,166,St Lucia,976.71
-LiveRanking,167,Bermuda,1.82
+LiveRanking,166,St. Lucia,976.71
+LiveRanking,167,Bermuda,975.05
 LiveRanking,168,Papua New Guinea,974.90
 LiveRanking,169,South Sudan,970.94
-LiveRanking,170,St Vincent and the Grenadines,968.27
-LiveRanking,171,Afghanistan,3.13
-LiveRanking,172,Andorra,1.95
+LiveRanking,170,St. Vincent / Grenadines,968.27
+LiveRanking,171,Afghanistan,968.07
+LiveRanking,172,Andorra,946.43
 LiveRanking,173,Maldives,943.92
 LiveRanking,174,Chinese Taipei,923.78
-LiveRanking,175,Cambodia,6.08
+LiveRanking,175,Cambodia,922.32
 LiveRanking,176,Montserrat,916.75
 LiveRanking,177,Nepal,914.54
 LiveRanking,178,Mauritius,911.49
@@ -2305,23 +2452,23 @@ LiveRanking,183,Chad,896.85
 LiveRanking,184,Eritrea,887.06
 LiveRanking,185,Laos,885.03
 LiveRanking,186,Cook Islands,877.53
-LiveRanking,187,Sri Lanka,5.04
+LiveRanking,187,Sri Lanka,876.86
 LiveRanking,188,Samoa,876.41
 LiveRanking,189,Aruba,875.61
-LiveRanking,190,Mongolia,3.61
+LiveRanking,190,Mongolia,874.47
 LiveRanking,191,American Samoa,871.61
 LiveRanking,192,Bhutan,870.81
 LiveRanking,193,Macau,858.03
-LiveRanking,194,Brunei Darussalam,857.73
+LiveRanking,194,Brunei,857.73
 LiveRanking,195,São Tomé and Príncipe,855.44
 LiveRanking,196,Djibouti,853.58
-LiveRanking,197,Cayman Islands,5.39
+LiveRanking,197,Cayman Islands,850.06
 LiveRanking,198,Pakistan,840.28
 LiveRanking,199,Somalia,839.17
 LiveRanking,200,Tonga,835.64
-LiveRanking,201,Timor-Leste,5.36
+LiveRanking,201,Timor-Leste,831.00
 LiveRanking,202,Gibraltar,820.26
-LiveRanking,203,Guam,3.26
+LiveRanking,203,Guam,819.54
 LiveRanking,204,Seychelles,804.16
 LiveRanking,205,Turks and Caicos Islands,803.98
 LiveRanking,206,Liechtenstein,797.70
@@ -2329,4 +2476,4 @@ LiveRanking,207,Bahamas,786.82
 LiveRanking,208,US Virgin Islands,779.76
 LiveRanking,209,British Virgin Islands,777.41
 LiveRanking,210,Anguilla,760.25
-LiveRanking,211,San Marino,1.73
+LiveRanking,211,San Marino,721.20

@@ -1,49 +1,49 @@
 team,count,group_advancement_probability
-Spain,99526,0.99526
-Germany,99340,0.9934
-Brazil,96649,0.96649
-Switzerland,96418,0.96418
-Argentina,96380,0.9638
-France,95916,0.95916
-England,95756,0.95756
-Mexico,95171,0.95171
-Portugal,94663,0.94663
-Ecuador,94614,0.94614
-Belgium,94235,0.94235
-Colombia,92860,0.9286
-Canada,90781,0.90781
-Netherlands,89970,0.8997
-Uruguay,89753,0.89753
-South Korea,87408,0.87408
-Norway,85413,0.85413
-Morocco,83047,0.83047
-Croatia,82224,0.82224
-Japan,81455,0.81455
-United States,79922,0.79922
-Turkey,77233,0.77233
-Ivory Coast,76970,0.7697
-Austria,76742,0.76742
-Scotland,69705,0.69705
-Iran,68039,0.68039
-Senegal,65224,0.65224
-Paraguay,64798,0.64798
-Egypt,64459,0.64459
-Algeria,62437,0.62437
-Sweden,62398,0.62398
-Australia,51781,0.51781
-South Africa,50390,0.5039
-Panama,47869,0.47869
-Bosnia and Herzegovina,46293,0.46293
-Uzbekistan,43476,0.43476
-New Zealand,41954,0.41954
-Saudi Arabia,39861,0.39861
-Ghana,39840,0.3984
-Tunisia,37276,0.37276
-Czechia,34453,0.34453
-Jordan,32764,0.32764
-DR Congo,31838,0.31838
-Qatar,27312,0.27312
-Iraq,21376,0.21376
-Haiti,20162,0.20162
-Cape Verde,19687,0.19687
-Curacao,4162,0.04162
+Spain,99555,0.99555
+Germany,97572,0.97572
+Brazil,97095,0.97095
+Argentina,96742,0.96742
+Switzerland,96700,0.967
+England,96298,0.96298
+France,96127,0.96127
+Portugal,94829,0.94829
+Belgium,94333,0.94333
+Colombia,92859,0.92859
+Mexico,91051,0.91051
+Canada,90987,0.90987
+Ecuador,90743,0.90743
+Netherlands,90304,0.90304
+Uruguay,89951,0.89951
+Norway,86955,0.86955
+Morocco,84398,0.84398
+Croatia,82713,0.82713
+Japan,81665,0.81665
+United States,79539,0.79539
+Turkey,77481,0.77481
+Austria,77406,0.77406
+South Korea,75219,0.75219
+Ivory Coast,71187,0.71187
+Czechia,70664,0.70664
+Scotland,69022,0.69022
+Iran,68776,0.68776
+Senegal,66025,0.66025
+Egypt,64451,0.64451
+Paraguay,64227,0.64227
+Sweden,62713,0.62713
+Algeria,61069,0.61069
+Australia,53363,0.53363
+Panama,47865,0.47865
+Bosnia and Herzegovina,46228,0.46228
+Uzbekistan,41955,0.41955
+New Zealand,41602,0.41602
+Saudi Arabia,39604,0.39604
+Ghana,38080,0.3808
+Tunisia,36373,0.36373
+South Africa,34478,0.34478
+Congo DR,32045,0.32045
+Jordan,32038,0.32038
+Qatar,27605,0.27605
+Cabo Verde,20083,0.20083
+Iraq,19559,0.19559
+Haiti,18632,0.18632
+Curacao,11834,0.11834

@@ -1,0 +1,10 @@
+{
+  "model": "path_a_poisson_dynamic_ratings_with_round_tracking",
+  "simulations": 100000,
+  "seed": 42,
+  "rounds_saved": [
+    "champion",
+    "runner_up",
+    "round_of_32"
+  ]
+}

@@ -1,48 +1,49 @@
 team,count,final_probability
-Spain,31143,0.31143
-Argentina,18582,0.18582
-France,15801,0.15801
-Brazil,14679,0.14679
-Germany,13560,0.1356
-England,11164,0.11164
-Colombia,8541,0.08541
-Netherlands,8421,0.08421
-Portugal,7666,0.07666
-Belgium,7637,0.07637
-Switzerland,6787,0.06787
-Norway,6570,0.0657
-Uruguay,5571,0.05571
-Ecuador,5107,0.05107
-Mexico,5031,0.05031
-Japan,4676,0.04676
-Morocco,3697,0.03697
-Austria,2584,0.02584
-United States,2374,0.02374
-South Korea,2323,0.02323
-Turkey,2263,0.02263
-Canada,1991,0.01991
-Croatia,1823,0.01823
-Scotland,1724,0.01724
-Paraguay,1679,0.01679
-Senegal,1395,0.01395
-Sweden,1203,0.01203
-Algeria,1021,0.01021
-Iran,960,0.0096
-Australia,797,0.00797
-Egypt,638,0.00638
-Ivory Coast,590,0.0059
-Uzbekistan,362,0.00362
-Panama,294,0.00294
-Tunisia,230,0.0023
-Saudi Arabia,203,0.00203
-Jordan,174,0.00174
-New Zealand,146,0.00146
-Iraq,117,0.00117
-South Africa,114,0.00114
-DR Congo,94,0.00094
-Ghana,84,0.00084
-Haiti,63,0.00063
-Qatar,54,0.00054
-Bosnia and Herzegovina,53,0.00053
-Cape Verde,10,0.0001
-Czechia,4,4e-05
+Spain,32293,0.32293
+Argentina,20183,0.20183
+France,15566,0.15566
+England,12741,0.12741
+Brazil,12660,0.1266
+Germany,10075,0.10075
+Colombia,9581,0.09581
+Portugal,9325,0.09325
+Belgium,7380,0.0738
+Netherlands,7298,0.07298
+Norway,6654,0.06654
+Switzerland,6526,0.06526
+Mexico,5575,0.05575
+Uruguay,5261,0.05261
+Ecuador,4448,0.04448
+Japan,4349,0.04349
+Morocco,3437,0.03437
+United States,2750,0.0275
+South Korea,2641,0.02641
+Turkey,2603,0.02603
+Austria,2513,0.02513
+Croatia,1828,0.01828
+Paraguay,1807,0.01807
+Canada,1722,0.01722
+Scotland,1343,0.01343
+Senegal,1271,0.01271
+Sweden,1075,0.01075
+Iran,1064,0.01064
+Czechia,1052,0.01052
+Australia,1037,0.01037
+Algeria,929,0.00929
+Ivory Coast,614,0.00614
+Egypt,594,0.00594
+Uzbekistan,310,0.0031
+Panama,292,0.00292
+Tunisia,218,0.00218
+Saudi Arabia,167,0.00167
+Jordan,162,0.00162
+South Africa,154,0.00154
+New Zealand,151,0.00151
+Iraq,95,0.00095
+Congo DR,81,0.00081
+Ghana,60,0.0006
+Bosnia and Herzegovina,39,0.00039
+Haiti,33,0.00033
+Qatar,32,0.00032
+Cabo Verde,7,7e-05
+Curacao,4,4e-05
